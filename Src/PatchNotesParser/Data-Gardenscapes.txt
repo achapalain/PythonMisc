@@ -1,0 +1,651 @@
+New character
+    new character:
+    - meet
+New level
+    new levels
+    exciting levels
+New chapter
+	new chapter
+Event
+	event
+
+
+======================
+
+Version History
+
+    3.4.0
+    May 21, 2019
+
+    A major Gardenscapes update!
+
+    Welcome, teams!
+
+    - Create your own team or join an existing one.
+
+    - Chat with other team members, exchange lives, and get free coins.
+
+    - Team Chest: beat levels to reach your team goal and earn a reward!
+
+    New storyline chapter:
+
+    - Romeo and Juliet in the garden! Help Chester get ready for the premiere.
+
+    - Build a comfortable amphitheater for your audience and create amazing decorations.
+
+    - Auditions among friends: find out who will play the leading roles!
+
+    Also featuring:
+
+    - Pie, a new element. Remove it from the field slice by slice!
+
+    - Happy Times: players get twice as many coins for beating levels!
+
+    - Thematic profile pictures for completing any decor collection from the catalog.
+
+3.3.2
+Apr 18, 2019
+
+What's new:
+
+- Bug fixes and improvements
+
+Please update the game to the latest version.
+
+A major Gardenscapes update!
+
+Spring Events
+
+- Win tokens to decorate the garden for Easter in the middle of April!
+
+- Assemble the whole decoration collection to get an Easter mansion makeover.
+
+- A new event at the end of the month! Beat levels on your first try to win medals and open reward chests.
+
+Adventures in the Garden
+
+- Host Alex and Jason's wedding ceremony!
+
+- Create beautiful wooden and flower figures as the finishing touch for the wedding archipelago.
+
+- Open a new chapter of the storyline and meet Austin's uncle Chester.
+
+Also Featuring
+
+- New level goal: collect Coconuts!
+
+- 2 new profile pictures.
+
+- Animated comics in the tablet: rewatch highlights from the storyline in the in-game news feed.
+3.3.0
+Apr 8, 2019
+
+A major Gardenscapes update!
+
+Spring Events
+
+- Win tokens to decorate the garden for Easter in the middle of April!
+
+- Assemble the whole decoration collection to get an Easter mansion makeover.
+
+- A new event at the end of the month! Beat levels on your first try to win medals and open reward chests.
+
+Adventures in the Garden
+
+- Host Alex and Jason's wedding ceremony!
+
+- Create beautiful wooden and flower figures as the finishing touch for the wedding archipelago.
+
+- Open a new chapter of the storyline and meet Austin's uncle Chester.
+
+Also Featuring
+
+- New level goal: collect Coconuts!
+
+- 2 new profile pictures.
+
+- Animated comics in the tablet: rewatch highlights from the storyline in the in-game news feed.
+3.2.0
+Feb 26, 2019
+
+A new Gardenscapes update featuring a wedding!
+
+Alex and Jason's wedding
+
+- Build a glowing underwater fountain and a new gazebo to get the Archipelago area ready for the upcoming celebration!
+
+- Make a wedding dress out of flowers.
+
+- Help organize a special gift for the newlyweds: a ride on a hot-air balloon!
+
+New in match-3
+
+- Watch out for Cattails at the stream! Remove them to restore the flow.
+
+- Untie the Hot-Air Balloons to launch them!
+
+Also featuring
+
+- The Treasure Hound and Magic Hats events are also now available in special chest levels.
+3.1.0
+Jan 14, 2019
+
+A romantic Gardenscapes update!
+
+Lunar New Year starting in early February!
+
+- Beat holiday levels in one go
+
+- Complete each chain of levels to get boosters, unlimited lives, and GardenCash you can use to buy new decorations for the garden
+
+Love story in the garden
+
+- A tower, knights, real armor, and much more! Help Jason get ready for a date with Alex!
+
+- A new area: Archipelago! Bring back to life a very rare tree and restore an old dovecote on the first island!
+
+- A surprise guest: welcome Austin's mom Olivia!
+3.0.0
+Nov 27, 2018
+
+Ho ho ho! Here comes a festive new Gardenscapes update!
+
+Enjoy a holiday event in mid-December!
+
+- Earn bells you can exchange to get festive decorations from Andy Tanner!
+
+- Get a holiday mansion design by completing a collection of decorations!
+
+A new chapter of the storyline
+
+- Furnish an area for a family of adorable rabbits!
+
+- Recreate the atmosphere of chivalry with the Lady of the Lake, a sword in the stone, and a dragon.
+
+New in match-3
+
+- A new element: Piñatas. Make matches next to them to break them and scatter the candy they contain on the field!
+
+- A new element: Rubber Ducks. Make make matches next to them in time to get power-ups and other useful elements.
+2.9.0
+Oct 15, 2018
+
+Trick-or-treat yourself to a new Gardenscapes update!
+
+Halloween in the garden!
+
+- Get spooktacular decorations from Andy Tanner by exchanging them for pumpcoins you can earn in mid-October.
+
+- Get a holiday-themed mansion design by completing a collection of decorations!
+
+Wonderland Park
+
+- Follow a white rabbit to discover a magical story in a new area!
+
+- Restore an old griffin relief and create a magical tree-nymph composition.
+
+- Meet a new character: Jacques, a teenager.
+2.8.0
+Sep 18, 2018
+
+An update as big as the Big Apple itself!
+
+Bumper Crop
+
+- Collect apples in a new event at the end of September!
+
+- Compete with other players and achieve group goals to win rewards!
+
+- New character: a cheerful farmer Annie Smith!
+
+The cosmic story in the garden continues!
+
+- Find a secret room and mysterious notes of an astronomer!
+
+- Build an observatory with your friends' help and decorate the garden with a Solar System model!
+
+- An interactive book: leaf through the illustrated pages to read a beautiful love story!
+
+New in match-3
+
+- Get all the ice out of the Coolers to remove them from the field.
+
+- Make matches next to Sacks of Ivy to plant ivy on the field!
+2.7.0
+Aug 14, 2018
+
+Gardenscapes is celebrating its second birthday!
+
+The story in the garden continues!
+
+- Welcome visitors to Dinopark! Create a dinosaur sculpture and find a spot for a magnificent gift from Polynesia!
+
+- A meteorite fragment lands in the garden! Join Jane from the town lab to find out more about it!
+
+- Help cute baby owls find their home!
+
+Also
+
+- Enjoy gifts and offers to mark the game's second birthday at the end of August!
+
+- Redesign the Maze Area and get new pets with the "Dutch Masterpiece" collection of decorations!
+
+- Profile pictures for the leaderboard! Choose a picture with your favorite character in Settings!
+2.6.0
+Jul 9, 2018
+
+Major Gardenscapes update featuring decor collections!
+
+Try out a new garden design!
+
+- Wild West or Tropical Paradise? Redesign garden areas with the new decor catalog!
+
+- Buy decorations using a special currency that you can earn in events!
+
+- Meet a new character: the famous designer Andy Tanner!
+
+Adventures continue in the Garden Before Time!
+
+- Plant tropical flowers, build an overwater bungalow, and make dinosaur statues!
+
+- Enjoy the first animated comic strip! Witness the unexpected appearance of the garden's oldest inhabitant—a centenarian tortoise!
+
+- Get to know a new character! Meet Melinda, the town veterinarian!
+
+- Follow the journey of the archaeologist Sean Parker to Polynesia on the in-game social network.
+
+New in match-3
+
+- Free up space below Generators so they can produce pieces and power-ups!
+
+- New level goal: Compass! To collect them, keep a close eye on their needle!
+2.5.0
+May 22, 2018
+
+Here comes a major Gardenscapes update!
+
+New in match-3
+
+- A new booster: Gardening Glove. Swap adjacent pieces without using a move!
+
+- A new element: Gas Cylinder. Get rid of it in a limited number of moves!
+
+New adventures
+
+- A new interactive book over the river: read about the former owner at any time you want!
+
+- The guest house finale: organize a reading meeting for friends!
+
+- Jungles and fossils: open a new area featuring a dinosaur park!
+
+- Restore a mysterious map to help characters find the Lost Island!
+2.4.0
+Apr 10, 2018
+
+A new Gardenscapes update featuring more adventures!
+
+Treasure hunt in the end of April
+
+- Find treasure chests with your dog in a new event
+
+- Beat levels without losing any to get boosters at the start of subsequent levels
+
+New adventures
+
+- A new business of good old friends: Colin and Robbie's company is restoring a house
+
+- Austin is trying to catch a ghost! Help him unveil the mystery!
+
+- Why is there a Polynesian totem in the garden? An unusual decoration has a story to tell.
+
+Also featuring
+
+- Sealed Fireworks: find a hidden element to launch fireworks and hit level targets!
+
+- Grow bonsai in a regular event!
+2.3.0
+Mar 2, 2018
+
+Introducing a spring fresh Gardenscapes update!
+
+Easter Feast
+
+- Organize a big feast for the whole town together with an Easter bunny visiting the garden in late March!
+
+- Carry on with holiday errands by beating chains of levels to make your friends happy and get awesome rewards!
+
+- Enjoy the Easter atmosphere and fun sketches with in-game characters.
+
+Welcome to the garden across the river!
+
+- A new adventure is about to sweep you off your feet: cross the river to find a manuscript and reveal who lived in an abandoned house!
+
+- There’s a ghost living across the river according to one urban legend. Do you believe in them?
+
+Also featuring
+
+- Use the Rake booster to remove pieces in a column and a row!
+
+- Don’t get tangled up in a new Rope element: match adjacent pieces to untie its knots!
+
+- Gardenscaping is now more rewarding than ever: get coins and boosters more often for your restoration achievements!
+
+- Stay updated about events and follow your progress in your tablet’s new tab!
+2.2.0
+Jan 22, 2018
+
+Major Gardenscapes update featuring new adventures!
+
+A new chapter in the riverside area storyline
+
+- Black sails and a treasure chest: pirate adventures await with Lucy and Steven!
+
+- Get the outdoor kitchen area ready for a cook-off!
+
+- Meet Sean Parker, a historian who is going to carry out an archeological dig in the garden.
+
+February holiday specials
+
+- Celebrate the Chinese New Year: beat holiday levels without losing any lives to win awesome rewards!
+
+- Enjoy St. Valentine's Day: take part in a new promotion to put together a romantic picture to post online!
+
+- Try out one more chain of levels in the training event!
+2.1.0
+Dec 5, 2017
+
+Ho ho ho! Here comes a festive new Gardenscapes update!
+
+Garden festivities
+
+- Assemble a collection of decorations in mid-December to get a Christmas tree!
+
+- Beat holiday level chains to get gifts!
+
+- Grow decorative trees in a regular event!
+
+A new expansion by the river
+
+- Go fishing with Austin and Robbie.
+
+- Get ready for a picnic: equip the kitchen and dining areas!
+
+- Solve the mystery behind an old manuscript.
+
+Also featuring
+
+- Lead the pup to treats in new Training event levels!
+
+- Watch out for the Grass growing on some levels! Make matches to get rid of it!
+2.0.0
+Nov 7, 2017
+
+Here comes a new Gardenscapes update featuring a high-voltage event!
+
+Electric Show
+
+- Participate in John Rockit's brand-new show!
+
+- Remove pieces with the Rainbow Blast to compete with other players and win awesome rewards in the leagues!
+
+New adventures in the stable area:
+
+- Get ready for a horse jumping competition!
+
+- Decorate your garden with an exquisite wooden sculpture.
+
+- A romantic storyline: make two lovebirds happy!
+
+Also featuring
+
+- Gnomes are hiding in bags of leaves. Make matches next to the bags to free them.
+
+- New Fireworks Festival rules: power-ups all count now!
+
+- New localization: Turkish.
+1.9.0
+Oct 4, 2017
+
+The new Gardenscapes update features a themed event with a gardenful of pumpkins!
+
+Celebrate Halloween in the garden!
+
+- Enjoy the new holiday event in the middle of October: earn pumpkoins and exchange them for unique Halloween-styled decorations!
+
+- Assemble the full collection of decor items to get a unique prize perfect for making the mansion look hauntingly beautiful!
+
+- Create a stylish Halloween bouquet in the popular Orangery Flower event
+
+Also featuring
+
+- A new element that makes Honey an even trickier obstacle: break the Sugar Crust to remove the Honey from the field!
+
+- The horse story gets another twist: train your new pet in the first show jumping session!
+
+- New community-requested localizations: Traditional Chinese, Brazilian Portuguese and Dutch!
+1.8.0
+Sep 5, 2017
+
+Enjoy a new Gardenscapes update featuring competitive leagues and a new area this fall!
+
+Being the best is more rewarding than ever!
+
+- The Fireworks Festival event features leagues now: the higher the league, the more prizes you can win!
+
+- Beat other players to climb the Leaderboard and get promoted to higher leagues.
+
+New area unlocked
+
+- The old stable holds untold secrets, so find out what they are!
+
+- An unexpected surprise: you inherited a noble horse! What will you name your new companion?
+
+- Team up with Austin and friends to equip the area for the horse.
+
+New in match-3 mode
+
+- The Float, an element you have to collect: watch carefully, as it relocates to a random tile every two moves!
+
+- 150 new levels
+1.7.0
+Jul 31, 2017
+
+It’s a major Gardenscapes update celebrating the game’s first anniversary!
+
+A brand-new event is around the corner!
+
+- Have fun with your favorite pet at the training ground!
+
+- Beat chains of levels without losing to earn prizes.
+
+New in match-3 mode:
+
+- Jam Jar: fill it with pieces of a certain color to complete the level goal
+
+- Explode power-ups to clean the Mud off pieces!
+
+- 150 more levels
+
+Also featuring:
+
+- An awesome gift for all players in celebration of the game’s first anniversary!
+
+- Rewards for everyone at the Fireworks Festival event!
+
+- A beautiful rose ready to be grown in the regular Orangery Flower event
+
+- Austin’s Instagram: go to the game settings to follow him!
+1.6.0
+Jun 22, 2017
+
+Here comes a sunny Gardenscapes update!
+
+A new event will start soon:
+
+- Grow an exotic plant for the orangery!
+
+- Beat levels and earn a reward for every plant growth stage you complete!
+
+New Oriental area
+
+- New tasks: a garden for meditating, and a fascinating kendo duel!
+
+- New character: Master Akira will help you curb the garden’s inner Force!
+
+- A high chance of rain, so get your umbrellas ready!
+
+Also featuring:
+
+- New element: Growing Water Lily (make matches to open it, and it’ll help you beat the level you’re on)
+
+- Lucky Spin: you can now win 3 free lives and 200 coins!
+
+- 150 new levels
+1.5.0
+May 16, 2017
+
+An all-new Gardenscapes update complete with an explosive competition!
+
+Fireworks Festival:
+
+- Don’t miss it! Compete with other players in an all-new regular event!
+
+- Set off as many firecrackers as you can to beat your rivals and win valuable rewards!
+
+- Meet the festival organizer: John Rockit, a pyrotechnician.
+
+New in match-3 mode:
+
+- Explode power-ups to sculpt a swan statue out of stone.
+
+- Open a Mystery Sack: it will be replaced with either a power-up or an obstacle.
+
+- Redesigned Fireworks: you won’t be able to stop setting them off!
+
+- 125 new levels.
+
+The Gardenscapes team wishes you a fun and festive mood! Stay tuned for more!
+1.4.2
+Apr 17, 2017
+
+What's new:
+
+- Bug fixes and improvements
+
+Please update the game to the latest version.
+
+Gardenscapes is introducing a huge update!
+
+Easter Feast:
+
+- Help the Easter Bunny throw a huge Easter party for the locals in an all-new story-based adventure starting on April 10!
+
+- Beat chains of levels to complete holiday tasks, bring joy to in-game characters, and win boosters and unlimited lives!
+
+- Get in the Easter spirit spreading across the garden and enjoy new characters’ sketches!
+
+Open a new chapter:
+
+- Take on more than 100 challenging tasks in the garden’s new Water Cascade area!
+
+- Find out what balls were like 200 years ago and help Austin organize one!
+
+- Meet Alex, a present-day Cinderella.
+
+New in match-3 mode:
+
+- 40 new exciting levels!
+
+- New obstacles: Picnic Blanket and Honeycombs!
+
+Warmest wishes from the Gardenscapes team! Have fun!
+1.4.0
+Apr 5, 2017
+
+Gardenscapes is introducing a huge update!
+
+Easter Feast:
+
+- Help the Easter Bunny throw a huge Easter party for the locals in an all-new story-based adventure starting on April 10!
+
+- Beat chains of levels to complete holiday tasks, bring joy to in-game characters, and win boosters and unlimited lives!
+
+- Get in the Easter spirit spreading across the garden and enjoy new characters’ sketches!
+
+Open a new chapter:
+
+- Take on more than 100 challenging tasks in the garden’s new Water Cascade area!
+
+- Find out what balls were like 200 years ago and help Austin organize one!
+
+- Meet Alex, a present-day Cinderella.
+
+New in match-3 mode:
+
+- 40 new exciting levels!
+
+- New obstacles: Picnic Blanket and Honeycombs!
+
+Warmest wishes from the Gardenscapes team! Have fun!
+1.3.0
+Mar 2, 2017
+
+Meet a fresh-for-spring Gardenscapes update!
+
+Enjoy a story-based spring event (starts in early March):
+
+- Immerse yourself in a captivating new story and help Austin unravel a family secret.
+
+- Beat levels to find clues you can use to solve the mystery and get unlimited lives, boosters, and coins!
+
+- Get in the spring spirit with themed level visuals!
+
+New in match-3 mode:
+
+- 900+ exciting levels!
+
+- Wonderful new elements and unexpected obstacles.
+
+And many other improvements!
+
+The Gardenscapes team wishes you oceans of inspiration this spring! Stay tuned for more!
+1.2.6
+Jan 26, 2017
+
+What's new:
+
+- Bug fixes and improvements
+
+Please update the game to the latest version.
+
+Here comes a big new Gardenscapes update!
+
+New special event — Chinese New Year (starts at the end of January):
+
+- Beat chains of holiday levels with just one life to receive boosters and other gifts!
+
+- Take advantage of special festive deals!
+
+New garden area unlocked:
+
+- More than 100 engaging tasks leading to a much-anticipated romantic story twist!
+
+- Team up with Austin to reveal the intriguing mystery at the bottom of the pond and make a sensational scientific discovery!
+
+- New in-game friends: optimistic inventor Jason, elaborate reporter Henry, and Nora, who loves wild animals
+
+New in match-3 mode:
+
+- More exciting levels, bringing the total to 600+!
+
+- Ivy obstacle: don’t let it spread all over the field!
+
+Also featuring:
+
+- Lucky Spin now has the Jackpot sector, so now you can win even more prizes!
+
+- New friend in the social network: Einar Davidsson, a biker enthusiast!
+
+And many other improvements!
+
+Warmest wishes from the Gardenscapes team. Have fun!

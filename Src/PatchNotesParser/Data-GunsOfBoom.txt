@@ -1,0 +1,953 @@
+Season
+	battle career Season
+Events
+	Halloween
+	limited-time challenge
+Balancing
+	balance
+New feature
+	new feature
+New gun
+	new gun
+Customization
+	Customization
+Maps
+	New mode
+	New map
+	festive map
+
+======================
+
+What's New
+Version 7.1.2 (Jun 13, 2019)
+
+Update 7.1 is here with new content and changes!
+
+REWORKED MAIN LOBBY
+• 2 years - it's time to give the main screen a fresh new look. One more birthday present!
+• Full-scale hangar behind your character. With 2 floors and a cozy armchair!
+• Settings button moved to the upper right corner. It's just a simple elegant gear now
+• Battle Career is here to stay, so its level is now right under your nickname
+
+NEW VICTORY SCREEN
+• Results table is boring - it's way cooler to look at the most valuable players standing right in front of you
+• See who's the best in each match. Or admire your look when it's you!
+
+POP-UP TIPS
+• Don’t know what to upgrade next or what weapon has just unlocked for you? Our handy hints will set you off in the right direction
+
+TECH STUFF
+• Bug fixes and stability improvements
+
+Expand notes
+Version 7.1 (Jun 10, 2019)
+
+Update 7.1 is here with new content and changes!
+
+REWORKED MAIN LOBBY
+• 2 years - it's time to give the main screen a fresh new look. One more birthday present!
+• Full-scale hangar behind your character. With 2 floors and a cozy armchair!
+• Settings button moved to the upper right corner. It's just a simple elegant gear now
+• Battle Career is here to stay, so its level is now right under your nickname
+
+NEW VICTORY SCREEN
+• Results table is boring - it's way cooler to look at the most valuable players standing right in front of you
+• See who's the best in each match. Or admire your look when it's you!
+
+POP-UP TIPS
+• Don’t know what to upgrade next or what weapon has just unlocked for you? Our handy hints will set you off in the right direction
+
+TECH STUFF
+• Bug fixes and stability improvements
+
+Expand notes
+Version 7.0.5 (May 29, 2019)
+
+Update 7.0 brings you BATTLE CAREER Season 3!
+
+NEW THEME – HIT THE STREETS!
+• PLENTY OF TIME — Enjoy six weeks of reward-packed action!
+• NEW SWAG PACK — Street cred costumes, masks, skins, and emotes.
+• NEW CHALLENGES — Tons of XP for tough missions!
+
+B-DAY PARTY!
+• SECOND ANNIVERSARY — Guns of Boom is getting older while staying fresh and new.
+• DAILY PRESENTS — Check your in-game messages and get cool birthday gifts every day!
+• PARTY HARD — Celebrate with new activities and awesome prizes!
+
+IMPROVEMENTS
+• BROWSING — Check your stats and arsenal while looking for a game!
+• GUN MAKEOVER — Annihilator, Liquidator, and Anaconda got a new look!
+• Bug fixes and improvements
+
+Expand notes
+Version 7.0.2 (May 22, 2019)
+
+Update 7.0 brings you BATTLE CAREER Season 3!
+
+NEW THEME – HIT THE STREETS!
+• PLENTY OF TIME — Enjoy six weeks of reward-packed action!
+• NEW SWAG PACK — Street cred costumes, masks, skins, and emotes.
+• NEW CHALLENGES — Tons of XP for tough missions!
+
+B-DAY PARTY!
+• SECOND ANNIVERSARY — Guns of Boom is getting older while staying fresh and new.
+• DAILY PRESENTS — Check your in-game messages and get cool birthday gifts every day!
+• PARTY HARD — Celebrate with new activities and awesome prizes!
+
+IMPROVEMENTS
+• BROWSING — Check your stats and arsenal while looking for a game!
+• GUN MAKEOVER — Annihilator, Liquidator, and Anaconda got a new look!
+• Bug fixes and improvements
+
+Expand notes
+Version 7.0 (May 16, 2019)
+
+Update 7.0 brings you BATTLE CAREER Season 3!
+
+NEW THEME – HIT THE STREETS!
+• PLENTY OF TIME — Enjoy six weeks of reward-packed action!
+• NEW SWAG PACK — Street cred costumes, masks, skins, and emotes.
+• NEW CHALLENGES — Tons of XP for tough missions!
+
+B-DAY PARTY!
+• SECOND ANNIVERSARY — Guns of Boom is getting older while staying fresh and new.
+• DAILY PRESENTS — Check your in-game messages and get cool birthday gifts every day!
+• PARTY HARD — Celebrate with new activities and awesome prizes!
+
+IMPROVEMENTS
+• BROWSING — Check your stats and arsenal while looking for a game!
+• GUN MAKEOVER — Annihilator, Liquidator, and Anaconda got a new look!
+• Bug fixes and improvements
+
+Expand notes
+Version 6.0 (Apr 29, 2019)
+
+Oops, looks like the Season 2 version didn’t bump properly with the last update — so we’ve been at 6.0 for the past week!
+
+• BATTLE CAREER Season 2 is extended!
+• MORE TIME to get your Gold rewards
+• MORE RANKS you can achieve with free daily challenges
+
+OTHER
+• FIXES — Improved stability and bug fixes
+• OUTLET PREVIEW — Try on the stuff on sale
+• CAPE AND MASK — Something epic and heroic is coming
+
+Expand notes
+Version 5.3.5 (Apr 12, 2019)
+
+BATTLE CAREER Season 2 is coming in strong — it’s all about hardcore military gear!
+
+BATTLE CAREER
+• ONE MONTH — Rewards are now packed closer! Feel the progress with each battle
+• GOLD REWARDS — As well as new costumes, emotes and more
+• FREE DAILY CHALLENGES — Get more experience and rewards by playing every day
+
+WEAPON TRIAL
+• KNIVES & PISTOLS —Try out the whole arsenal!
+
+OTHER
+• FLOATING DAMAGE NUMBERS no longer impede your aim
+• ESTIMATED TIME — Now you’ll know when your next match starts
+
+Expand notes
+Version 5.3.4 (Apr 11, 2019)
+
+BATTLE CAREER Season 2 is coming in strong — it’s all about hardcore military gear!
+
+BATTLE CAREER
+• ONE MONTH — Rewards are now packed closer! Feel the progress with each battle
+• GOLD REWARDS — As well as new costumes, emotes and more
+• FREE DAILY CHALLENGES — Get more experience and rewards by playing every day
+
+WEAPON TRIAL
+• KNIVES & PISTOLS —Try out the whole arsenal!
+
+OTHER
+• FLOATING DAMAGE NUMBERS no longer impede your aim
+• ESTIMATED TIME — Now you’ll know when your next match starts
+
+Expand notes
+Version 5.3.3 (Apr 08, 2019)
+
+BATTLE CAREER Season 2 is coming in strong — it’s all about hardcore military gear!
+
+BATTLE CAREER
+• ONE MONTH — Rewards are now packed closer! Feel the progress with each battle
+• GOLD REWARDS — As well as new costumes, emotes and more
+• FREE DAILY CHALLENGES — Get more experience and rewards by playing every day
+
+WEAPON TRIAL
+• KNIVES & PISTOLS —Try out the whole arsenal!
+
+OTHER
+• FLOATING DAMAGE NUMBERS no longer impede your aim
+• ESTIMATED TIME — Now you’ll know when your next match starts
+
+Expand notes
+Version 5.3 (Apr 05, 2019)
+
+BATTLE CAREER Season 2 is coming in strong — it’s all about hardcore military gear!
+
+BATTLE CAREER
+• ONE MONTH — Rewards are now packed closer! Feel the progress with each battle
+• GOLD REWARDS — As well as new costumes, emotes and more
+• FREE DAILY CHALLENGES — Get more experience and rewards by playing every day
+
+WEAPON TRIAL
+• KNIVES & PISTOLS —Try out the whole arsenal!
+
+OTHER
+• FLOATING DAMAGE NUMBERS no longer impede your aim
+• ESTIMATED TIME — Now you’ll know when your next match starts
+
+Expand notes
+Version 5.2.6 (Mar 28, 2019)
+
+Update 5.2 brings you several quality of life improvements:
+• IMPROVED FREE TRIAL—now you can try SEVERAL different guns at once! Also now you can try EQUIPMENT like helmets and pants.
+• The loading screen now features a Contact Support button.
+• Fixed several visual glitches.
+
+Expand notes
+Version 5.2.3 (Mar 18, 2019)
+
+Update 5.2 brings you several quality of life improvements:
+
+• IMPROVED FREE TRIAL—now you can try SEVERAL different guns at once! Also now you can try EQUIPMENT like helmets and pants.
+• The loading screen now features a Contact Support button.
+• Fixed several visual glitches.
+
+Expand notes
+Version 5.2.2 (Mar 15, 2019)
+
+Update 5.2 brings you several quality of life improvements:
+
+• IMPROVED FREE TRIAL—now you can try SEVERAL different guns at once! Also now you can try EQUIPMENT like helmets and pants.
+• The loading screen now features a Contact Support button.
+• Fixed several visual glitches.
+
+Expand notes
+Version 5.1 (Feb 22, 2019)
+
+Update 5.1: get ready for an epic tournament in Katowice on March 1 by taking part in the upcoming esports brawl. Prizes await!
+• Ping is displayed in battle now
+• Reconnecting to battles works better now
+• Tap the emote icon to activate the last emote. Long tap to select a different one
+
+Expand notes
+Version 5.0.6 (Feb 17, 2019)
+
+Brazilian vibes are shaking Guns of Boom! Complete special limited-time challenges to get a unique costume and enjoy the festivities with groovy dances!
+
+BATTLE CAREER SEASON ONE
+• NEW MECHANICS – Complete special challenges, climb the ranks and win awesome prizes.
+• DANCES & EMOTIONS – Rock the whole server with your neat moves.
+• ANIMATED INSIGNIAS – Look even more stunning on the scoreboard.
+
+IMPROVED FEATURES
+• IMPROVED CHAT – Enjoy talking to other players with even more features!
+
+Expand notes
+Version 5.0.5 (Feb 07, 2019)
+
+Update 5.0 is a big one – get ready for a life-changing experience with the all-new BATTLE CAREER feature!
+
+BATTLE CAREER SEASON ONE
+
+• NEW MECHANICS – Complete special challenges, climb the ranks and win awesome prizes.
+• DANCES & EMOTIONS – Rock the whole server with your neat moves.
+• ANIMATED INSIGNIAS – Look even more stunning on the scoreboard.
+
+IMPROVED FEATURES
+
+• CHAT IS BACK – We know you've missed it, so enjoy your old friend with new features!
+
+Expand notes
+Version 5.0.4 (Feb 05, 2019)
+
+Update 5.0 is a big one – get ready for a life-changing experience with the all-new BATTLE CAREER feature!
+
+BATTLE CAREER SEASON ONE
+
+• NEW MECHANICS – Complete special challenges, climb the ranks and win awesome prizes.
+• DANCES & EMOTIONS – Rock the whole server with your neat moves.
+• ANIMATED INSIGNIAS – Look even more stunning on the scoreboard.
+
+IMPROVED FEATURES
+
+• CHAT IS BACK – We know you've missed it, so enjoy your old friend with new features!
+
+Expand notes
+Version 5.0 (Jan 28, 2019)
+
+Update 5.0 is a big one – get ready for a life-changing experience with the all-new BATTLE CAREER feature!
+
+BATTLE CAREER SEASON ONE
+• NEW MECHANICS – Complete special challenges, climb the ranks and win awesome prizes.
+• DANCES & EMOTIONS – Rock the whole server with your neat moves.
+• ANIMATED INSIGNIAS – Look even more stunning on the scoreboard.
+
+IMPROVED FEATURES
+• CHAT IS BACK – We know you've missed it, so enjoy your old friend with new features!
+
+Expand notes
+Version 4.10 (Dec 21, 2018)
+
+Update 4.10 brings you the New Year event and esports improvements!
+
+NEW YEAR is coming, and it’s gonna be HUGE!
+• 3 weeks of snowy madness
+• 3 festive maps
+• 4 fairs and a ton of jolly cosmetics!
+• Prepare for the holiday cheer!
+
+ESPORTS GALORE
+• FREE consumables in PRO Play mode
+• MORE GUNS and consumables allowed in ESL matches
+• UNLOCKED ALL allowed guns for ESL matches
+• Tweaked shotguns and some equipment
+• Get ready for Season Two!
+
+Expand notes
+Version 4.9.2 (Dec 10, 2018)
+
+• COPTER: a super profitable offer for players level 3-16!
+• Rent a cool fully-animated copter that will bring you gold
+• Claim gold EVERY DAY for the next 10 DAYS!
+• Other fixes and improvements.
+
+Expand notes
+Version 4.9.1 (Dec 03, 2018)
+
+• COPTER: a super profitable offer for players level 3-16!
+• Rent a cool fully-animated copter that will bring you gold
+• Claim gold EVERY DAY for the next 10 DAYS!
+• Other fixes and improvements.
+
+Expand notes
+Version 4.9 (Nov 27, 2018)
+
+Here’s what’s new in update 4.9:
+• COPTER: a super profitable offer for players level 3-16!
+• Rent a cool fully-animated copter that will bring you gold
+• Claim gold EVERY DAY for the next 10 DAYS!
+• Other fixes and improvements.
+
+Expand notes
+Version 4.8.2 (Oct 29, 2018)
+
+• HALLOWEEN is coming to Guns of Boom. Get ready for a new action-packed event!
+• New spooky map
+• New fear-inducing gun
+• New healing helmet
+• New ghastly ANIMATED costume
+• Tons of bloodcurdling cosmetics to make you the spookiest gunslinger out there
+• SHARE feature for your profile! Let the world know how tough you are at the push of a button
+• New LOOKS! Customize your character even further with cool mustaches and more
+
+Expand notes
+Version 4.8.1 (Oct 24, 2018)
+
+Update 4.8 is here:
+• HALLOWEEN is coming to Guns of Boom. Get ready for a new action-packed event!
+• New spooky map
+• New fear-inducing gun
+• New healing helmet
+• New ghastly ANIMATED costume
+• Tons of bloodcurdling cosmetics to make you the spookiest gunslinger out there
+• SHARE feature for your profile! Let the world know how tough you are at the push of a button
+• New LOOKS! Customize your character even further with cool mustaches and more
+
+Expand notes
+Version 4.8 (Oct 23, 2018)
+
+Update 4.8 is here:
+• HALLOWEEN is coming to Guns of Boom. Get ready for a new action-packed event!
+• New spooky map
+• New fear-inducing gun
+• New healing helmet
+• New ghastly ANIMATED costume
+• Tons of bloodcurdling cosmetics to make you the spookiest gunslinger out there
+• SHARE feature for your profile! Let the world know how tough you are at the push of a button
+• New LOOKS! Customize your character even further with cool mustaches and more
+
+Expand notes
+Version 4.7 (Oct 12, 2018)
+
+Update 4.7 is here!
+• IMPROVED ANIMATIONS - running, walking and aiming animations got even more realistic and awesome
+• SUBSCRIBE BUTTON - subscribe to our YouTube channel from the Videos menu
+• DISCORD INTEGRATION - join our Discord right from the clan chat or your clan profile
+• NEW OUTLET BUTTON - now it’s even easier to find awesome deals!
+• Numerous technical improvements and fixes
+
+Expand notes
+Version 4.6.2 (Sep 19, 2018)
+
+Update 4.6 is here!
+• WARM UP before battle in Pro Play mode! Sync up with others before starting the fight
+• New BATTLE SCREEN: choose from Classic, Pro Play or Brawl battle types
+• Improved anti-cheat system and new REPORT button: tell us who’s misbehaving
+• Graphical IMPROVEMENTS: trinkets on some costumes now jiggle as you move, and there’s a new metallic gloss effect on some cosmetics
+• Improved HELP: get a notification in the lobby once your question has been answered
+• Improved overall game stability.
+• Fixed a bunch of issues from the previous version - thanks for reporting them to us!
+
+Expand notes
+Version 4.6.1 (Sep 13, 2018)
+
+Update 4.6 is here!
+• WARM UP before battle in Pro Play mode! Sync up with others before starting the fight
+• New BATTLE SCREEN: choose from Classic, Pro Play or Brawl battle types
+• Improved anti-cheat system and new REPORT button: tell us who’s misbehaving
+• Graphical IMPROVEMENTS: trinkets on some costumes now jiggle as you move, and there’s a new metallic gloss effect on some cosmetics
+• Improved HELP: get a notification in the lobby once your question has been answered
+
+Expand notes
+Version 4.6 (Sep 11, 2018)
+
+Update 4.6 is here!
+• WARM UP before battle in Pro Play mode! Sync up with others before starting the fight
+• New BATTLE SCREEN: choose from Classic, Pro Play or Brawl battle types
+• Improved anti-cheat system and new REPORT button: tell us who’s misbehaving
+• Graphical IMPROVEMENTS: trinkets on some costumes now jiggle as you move, and there’s a new metallic gloss effect on some cosmetics
+• Improved HELP: get a notification in the lobby once your question has been answered
+
+Expand notes
+Version 4.5.1 (Aug 14, 2018)
+
+Update 4.5 brings you a new system for testing guns and balance changes:
+
+• TRY ANY GUN - now you can try any weapon available for your level! Just watch a short ad and take any gun you want for a spin.
+• BALANCE CHANGES - we’ve fine-tuned some of the guns. Check the in-game mail for details. Spoiler: yes, we made the Ranger great again.
+• We’ve got some huge upcoming news! They’re so great we’re afraid to blow your mind, so prepare your explosion proof helmets and stay tuned!
+
+Expand notes
+Version 4.5 (Aug 09, 2018)
+
+Update 4.5 brings you a new system for testing guns and balance changes:
+
+• TRY ANY GUN - now you can try any weapon available for your level! Just watch a short ad and take any gun you want for a spin.
+• BALANCE CHANGES - we’ve fine-tuned some of the guns. Check the in-game mail for details. Spoiler: yes, we made the Ranger great again.
+• We’ve got some huge upcoming news! They’re so great we’re afraid to blow your mind, so prepare your explosion proof helmets and stay tuned!
+
+Expand notes
+Version 4.4.4 (Jul 20, 2018)
+
+Hey, Gunslinger! Version 4.4 is here, and it’s packed with new features, improvements, and possibilities. Here’s what we’ve got for you.
+SCRAPS
+This is a new type of resource you can get in exchange for duplicate items instead of automatically gaining gunbucks. Use scraps to buy all sorts of cosmetics right from the arsenal!
+
+COLLECTIONS
+For over a year, our victory cases dropped only a certain list of items. In a few days this will change, and new costumes and masks will start dropping. Finish assembling the cosmetics you’re currently working on, because on July 9 some of them will disappear from victory cases. Don’t worry though, you’ll be able to complete them at a later date.
+
+OFFERS
+We’ve added 2 new tabs to the game store: on the Cases tab you can get loads of cases, and the Outlet features extremely rare items available for a limited time. Choices, choices!
+
+NEW THREADS
+In several days we’ll update the contents of victory cases. Get ready for 9 new costumes and 7 cool masks. They will surely blow your mind!
+
+VISUALS
+We’ve improved the animations in the game, reworked some of the interface windows, and updated the models of Mamba, Juggernaut, Vampire and Thanatos. On top of that, we’ve revamped the skins for most of our guns! The game looks as good as ever!
+
+PLANNING AHEAD
+If you think we forgot about brawls and special events, you couldn’t be more wrong. We’ve got a whole set of cool activities planned for you. And if you think Top Gun and Rocket Party were cool, you’re in for some pleasant surprises. Stay tuned for more!
+
+Expand notes
+Version 4.4.3 (Jul 13, 2018)
+
+Hey, Gunslinger! Version 4.4 is here, and it’s packed with new features, improvements, and possibilities. Here’s what we’ve got for you.
+
+SCRAPS
+This is a new type of resource you can get in exchange for duplicate items instead of automatically gaining gunbucks. Use scraps to buy all sorts of cosmetics right from the arsenal!
+
+COLLECTIONS
+For over a year, our victory cases dropped only a certain list of items. In a few days this will change, and new costumes and masks will start dropping. Finish assembling the cosmetics you’re currently working on, because on July 9 some of them will disappear from victory cases. Don’t worry though, you’ll be able to complete them at a later date.
+
+OFFERS
+We’ve added 2 new tabs to the game store: on the Cases tab you can get loads of cases, and the Outlet features extremely rare items available for a limited time. Choices, choices!
+
+NEW THREADS
+In several days we’ll update the contents of victory cases. Get ready for 9 new costumes and 7 cool masks. They will surely blow your mind!
+
+VISUALS
+We’ve improved the animations in the game, reworked some of the interface windows, and updated the models of Mamba, Juggernaut, Vampire and Thanatos. On top of that, we’ve revamped the skins for most of our guns! The game looks as good as ever!
+
+PLANNING AHEAD
+If you think we forgot about brawls and special events, you couldn’t be more wrong. We’ve got a whole set of cool activities planned for you. And if you think Top Gun and Rocket Party were cool, you’re in for some pleasant surprises. Stay tuned for more!
+
+Expand notes
+Version 4.4.2 (Jul 09, 2018)
+
+Hey, Gunslinger! Version 4.4 is here, and it’s packed with new features, improvements, and possibilities. Here’s what we’ve got for you.
+SCRAPS
+This is a new type of resource you can get in exchange for duplicate items instead of automatically gaining gunbucks. Use scraps to buy all sorts of cosmetics right from the arsenal!
+
+COLLECTIONS
+For over a year, our victory cases dropped only a certain list of items. In a few days this will change, and new costumes and masks will start dropping. Finish assembling the cosmetics you’re currently working on, because on July 9 some of them will disappear from victory cases. Don’t worry though, you’ll be able to complete them at a later date.
+
+OFFERS
+We’ve added 2 new tabs to the game store: on the Cases tab you can get loads of cases, and the Outlet features extremely rare items available for a limited time. Choices, choices!
+
+NEW THREADS
+In several days we’ll update the contents of victory cases. Get ready for 9 new costumes and 7 cool masks. They will surely blow your mind!
+
+VISUALS
+We’ve improved the animations in the game, reworked some of the interface windows, and updated the models of Mamba, Juggernaut, Vampire and Thanatos. On top of that, we’ve revamped the skins for most of our guns! The game looks as good as ever!
+
+PLANNING AHEAD
+If you think we forgot about brawls and special events, you couldn’t be more wrong. We’ve got a whole set of cool activities planned for you. And if you think Top Gun and Rocket Party were cool, you’re in for some pleasant surprises. Stay tuned for more!
+
+Expand notes
+Version 4.4.1 (Jul 05, 2018)
+
+Hey, Gunslinger! Version 4.4 is here, and it’s packed with new features, improvements, and possibilities. Here’s what we’ve got for you.
+
+SCRAPS
+This is a new type of resource you can get in exchange for duplicate items instead of automatically gaining gunbucks. Use scraps to buy all sorts of cosmetics right from the arsenal!
+
+COLLECTIONS
+For over a year, our victory cases dropped only a certain list of items. In a few days this will change, and new costumes and masks will start dropping. Finish assembling the cosmetics you’re currently working on, because on July 9 some of them will disappear from victory cases. Don’t worry though, you’ll be able to complete them at a later date.
+
+OFFERS
+We’ve added 2 new tabs to the game store: on the Cases tab you can get loads of cases, and the Outlet features extremely rare items available for a limited time. Choices, choices!
+
+NEW THREADS
+In several days we’ll update the contents of victory cases. Get ready for 9 new costumes and 7 cool masks. They will surely blow your mind!
+
+VISUALS
+We’ve improved the animations in the game, reworked some of the interface windows, and updated the models of Mamba, Juggernaut, Vampire and Thanatos. On top of that, we’ve revamped the skins for most of our guns! The game looks as good as ever!
+
+PLANNING AHEAD
+If you think we forgot about brawls and special events, you couldn’t be more wrong. We’ve got a whole set of cool activities planned for you. And if you think Top Gun and Rocket Party were cool, you’re in for some pleasant surprises. Stay tuned for more!
+
+Expand notes
+Version 4.4 (Jul 03, 2018)
+
+Hey, Gunslinger! Version 4.4 is here, and it’s packed with new features, improvements, and possibilities. Here’s what we’ve got for you.
+
+SCRAPS
+This is a new type of resource you can get in exchange for duplicate items instead of automatically gaining gunbucks. Use scraps to buy all sorts of cosmetics right from the arsenal!
+
+COLLECTIONS
+For over a year, our victory cases dropped only a certain list of items. In a few days this will change, and new costumes and masks will start dropping. Finish assembling the cosmetics you’re currently working on, because on July 9 some of them will disappear from victory cases. Don’t worry though, you’ll be able to complete them at a later date.
+
+OFFERS
+We’ve added 2 new tabs to the game store: on the Cases tab you can get loads of cases, and the Outlet features extremely rare items available for a limited time. Choices, choices!
+
+NEW THREADS
+In several days we’ll update the contents of victory cases. Get ready for 9 new costumes and 7 cool masks. They will surely blow your mind!
+
+VISUALS
+We’ve improved the animations in the game, reworked some of the interface windows, and updated the models of Mamba, Juggernaut, Vampire and Thanatos. On top of that, we’ve revamped the skins for most of our guns! The game looks as good as ever!
+
+PLANNING AHEAD
+If you think we forgot about brawls and special events, you couldn’t be more wrong. We’ve got a whole set of cool activities planned for you. And if you think Top Gun and Rocket Party were cool, you’re in for some pleasant surprises. Stay tuned for more!
+
+Expand notes
+Version 4.3 (Jun 15, 2018)
+
+Gunslingers, the Tournament is over, and we’re cleaning up the place after the party. Here’s what we did so far:
+• Gave the cardboard cows a fresh coat of paint
+• Converted event coins to gunbucks
+• Patched up bullet holes on all the maps
+• Sent the mariachi band back home
+• Polished the guns in your arsenal
+
+Expand notes
+Version 4.2.2 (Jun 06, 2018)
+
+The final stage of the Trejo Tournament is here, and it’s gonna be a grand finale!
+
+ALL FOUR MAPS ARE HERE
+Now you can fight on ALL the maps you came to know and love. MANSION, PLATEAU, HACIENDA, and CANYON are ready for all you brutal lone wolves out there! Play on all of them while you still can.
+
+NEW GUN: DOLORES
+The wait is finally over and the mind-boggling, jaw-dropping Dolores is here.
+• Shotgun
+• Available to players level 22+
+• Outstanding damage per shot
+• Very decent maximum range (higher than most shotguns)
+• Additional magazine - you will run out of enemies before you run out of bullets We suggest you all take a look at this beauty; she’s got enough character and potential to charm even the top players. Yeah, we’ve been saving the best for the last. If you want to get your hands on this new weapon, you should visit the fair right now. The event won’t last forever: tick-tock, guys, tick-tock...
+
+ACTIVITIES
+• As promised, stage one Barracuda and stage two Matador fairs are back again.
+• New Free For All challenges have been added.
+• New daily ratings and general rankings are live!
+• Finally, we’ve sent you 300 additional Coins.
+
+Enjoy the final showdown!
+
+Expand notes
+Version 4.2 (May 28, 2018)
+
+INTRODUCING BATTLE CASES!
+• Open Battle Cases and get exclusive event items and guns
+• Cyclops and Avalanche guns are back - find them in Battle Cases!
+• Event cosmetics - get items from all previous events
+• Elite consumables - time to stock up on G-Launchers and Cryo-grenades
+• Time is limited - hurry up and open as many Battle Cases as you can!
+
+P.S. A nice bonus: now you can change the game language in the Settings
+
+Expand notes
+Version 4.1.1 (May 16, 2018)
+
+• The merciless fun doesn't stop - Free For All mode is now available in Private Matches
+• Many interface improvements and bug fixes
+• Changed the balance of several guns. Check out the full list of balance changes with developer comments in the mail!
+
+Expand notes
+Version 4.1 (May 03, 2018)
+
+• The merciless fun doesn't stop - Free For All mode is now available in Private Matches
+• Many interface improvements and bug fixes
+• Changed the balance of several guns. Check out the full list of balance changes with developer comments in the mail!
+
+Expand notes
+Version 4.0.1 (Apr 18, 2018)
+
+We proudly present the merciless TREJO TOURNAMENT in version 4.0 - the most massive, most awesome and the most brutal update Guns of Boom ever had!
+
+• NEW Free For All game mode - You’re on your own and EVERYONE is your enemy!
+• 4 NEW maps - You can already battle in the dusty Canyon and in a luxurious Hacienda and two more maps will be available later
+• 5 NEW Weapons, 3 of them available at the start - Barracuda, Trejo’s Ace and Trejo’s Blade
+• NEW Consumables - Deadly throwing knives
+• Tons of NEW SWAG that simply screams “Don’t mess with me, boy!”
+• Daily Tournaments - Get elite consumables for your skill every day
+
+Expand notes
+Version 4.0 (Apr 17, 2018)
+
+We proudly present the merciless TREJO TOURNAMENT in version 4.0 - the most massive, most awesome and the most brutal update Guns of Boom ever had!
+
+• NEW Free For All game mode - You’re on your own and EVERYONE is your enemy!
+• 4 NEW maps - You can already battle in the dusty Canyon and in a luxurious Hacienda and two more maps will be available later
+• 5 NEW Weapons, 3 of them available at the start - Barracuda, Trejo’s Ace and Trejo’s Blade
+• NEW Consumables - Deadly throwing knives
+• Tons of NEW SWAG that simply screams “Don’t mess with me, boy!”
+• Daily Tournaments - Get elite consumables for your skill every day
+
+Expand notes
+Version 3.3 (Apr 06, 2018)
+
+UPGRADES AND FIXES:
+• Updated mail
+• Improved spectator mode
+• Default FPS settings - iPhone 6 and 7 will reset to recommended 30 FPS by default for better performance. You can turn 60 FPS back on in the Advanced Settings tab
+• Balance changes for 5 guns, buffed machine guns and more. Check out the full list of changes with developer comments in the mail!
+
+Expand notes
+Version 3.1.4 (Mar 09, 2018)
+
+Try the new 60-120 FPS high-end gaming experience and our full-fledged eSports Spectator mode!
+
+HIGH-END GRAPHICS
+• Frame Rate settings — enjoy the smoothest gameplay ever at 60 FPS on most devices and 120 FPS on the latest iPad Pro models
+
+SPECTATOR GALORE
+• New Spectator mode — use 3rd person and top-down cameras to switch between players during matches
+• Restrict Spectating in Private Matches to prevent stream sniping
+
+BALANCE UPDATE
+• Rebalanced 6 guns
+
+Expand notes
+Version 3.1 (Mar 06, 2018)
+
+Try the new 60-120 FPS high-end gaming experience and our full-fledged eSports Spectator mode!
+
+HIGH-END GRAPHICS
+• Frame Rate settings — enjoy the smoothest gameplay ever at 60 FPS on most devices and 120 FPS on the latest iPad Pro models
+
+SPECTATOR GALORE
+• New Spectator mode — use 3rd person and top-down cameras to switch between players during matches
+• Restrict Spectating in Private Matches to prevent stream sniping
+
+BALANCE UPDATE
+• Rebalanced 6 guns
+
+Expand notes
+Version 3.0 (Feb 08, 2018)
+
+LUNAR FESTIVAL!
+
+NEW GUNS AND CUSTOMIZATION
+• Two event exclusive Guns — unleash the inner dragon!
+• New festive Customization: Costumes, Masks, Insignias, and Weapon Skins
+
+SKILL-BASED GOODNESS
+• New Currency: Tokens — the better you fight, the more you get
+• Daily Rankings and overall Event Rating — get cool prizes for your skill every day.
+• Hardcore Challenges — a chance for the best players to earn the unique Dragon Warrior costume.
+
+Expand notes
+Version 2.9.1 (Jan 18, 2018)
+
+Winter is here, so get ready for a special New Year event and new equipment to use in your daily battles!
+
+NEW GRENADES AND GEAR
+* G-Launcher, Flashbang, Stim-Gun
+* An updated Arsenal section for managing equipment
+
+New Year EVENT
+* A festive event map: deliver presents in the new PAYLOAD MODE
+* It’s time to unwrap four amazing NEW guns!
+* Jolly appearances—find a beard for your holiday outfit and much more
+* Get presents in the new Fair activity
+* Complete holiday quests and receive awesome SPECIAL EVENT CASES!
+
+Expand notes
+Version 2.8.1 (Dec 20, 2017)
+
+Winter is here, so get ready for a special New Year event and new equipment to use in your daily battles!
+
+NEW GRENADES AND GEAR
+* G-Launcher, Flashbang, Stim-Gun
+* An updated Arsenal section for managing equipment
+
+New Year EVENT
+* A festive event map: deliver presents in the new PAYLOAD MODE
+* It’s time to unwrap four amazing NEW guns!
+* Jolly appearances—find a beard for your holiday outfit and much more
+* Get presents in the new Fair activity
+* Complete holiday quests and receive awesome SPECIAL EVENT CASES!
+
+Expand notes
+Version 2.8 (Dec 19, 2017)
+
+Winter is here, so get ready for a special New Year event and new consumables to use in your daily battles!
+
+NEW GRENADES AND GEAR
+* G-Launcher, Flashbang, Stim-Gun
+* An updated Arsenal section for managing consumables
+
+New Year EVENT
+* A festive event map: deliver presents in the new PAYLOAD MODE
+* It’s time to unwrap four amazing NEW guns!
+* Jolly appearances—find a beard for your holiday outfit and much more
+* Get presents in the new Fair activity
+* Complete holiday quests and receive awesome SPECIAL EVENT CASES!
+
+Expand notes
+Version 2.7.3 (Dec 05, 2017)
+
+NEW MAP: GOBSTON PARK
+• New setting—Subway
+• King of the Hill
+• Available after level 10
+
+AND MORE
+• Improved UI for iPhone X and other wide-screen phones
+• Bug fixes and various technical improvements
+• Video ads reworked and polished—now more stable and have smoother performance
+
+Expand notes
+Version 2.7.2 (Nov 02, 2017)
+
+iPhone X is finally here — and our game fully supports it starting from day one!
+
+• Upgraded Ranking System — lose less rating points and get rewards depending on your place on the scoreboard!
+• Reworked Matchmaking — play with opponents as strong as you on levels 34-50.
+• Improved interfaces — polished and reworked Recent games.
+• Minor bug fixes — all sorts of technical goodness.
+
+Expand notes
+Version 2.7.1 (Oct 26, 2017)
+
+Halloween is a special time of the year. We would like to celebrate it with a horrifying event!
+
+HALLOWEEN EVENT
+* Halloween mode — find the event button in your lobby and get transported into the most thrilling adventure of your life.
+* Completely new line of quests — finish themed tasks and get tons of Halloween prizes.
+* Halloween event rating — the keenest players will have the chance to fight for the top spot in our rating and win unusual prizes.
+
+SCARY CUSTOMIZATION
+* Spooky Cases — common, rare and legendary cases full of amazing Halloween cosmetic items. Earn them by playing matches in Halloween mode.
+* Masks, costumes, insignias, weapon skins — use keys earned for completing quests to open Spooky Cases and turn into Frankenstein's Monster, a Voodoo Doctor, or many other classic monsters
+
+Also, we've been working on:
+* Video ads — now fixed and improved.
+
+Expand notes
+Version 2.7.0 (Oct 23, 2017)
+
+Halloween is a special time of the year. And we would like to celebrate it with a horrifying event that starts later this week.
+
+Coming soon:
+HALLOWEEN EVENT
+• Halloween mode — find the event button in your lobby and get transported into the most thrilling adventure of your life.
+• Completely new line of quests — finish themed tasks and get tons of Halloween prizes.
+• Halloween event rating — the most passionate and eager players will have a chance to fight for the top spot of our rating and win unusual prizes.
+
+SCARY CUSTOMIZATION
+• Spooky Cases — common, rare and legendary cases full of amazing Halloween cosmetic items. Get them for playing matches in the Halloween mode.
+• Masks, costumes, insignias, weapon skins — use keys you get for completing quests to open Spooky Cases and turn into the Frankenstein's Monster, a Voodoo Doctor, and many other classic monsters
+
+Also, we've been working on:
+• Video ads — now fixed and improved.
+
+Expand notes
+Version 2.6.1 (Oct 11, 2017)
+
+It’s the beginning of a new era for all of us who have gaming seeping through into our everyday lives.
+And we’re proud to present you with our own
+AUGMENTED REALITY (AR) SPECTATOR MODE
+
+- What is AR? – To put it simply, you can now merge what is happening inside the game with your surroundings. Your device works as a window to a world where your friends’ ongoing matches happen right on your coffee table
+- Easy Controls – It doesn’t even feel like technology, because you guide the camera with your own body, zooming in and out as you move in or back away. See the best moments up close and personal, and fly freely around the battlefield.
+- Battle notifications – follow your friends and get notified when they enter a match.
+- Simple Tutorial – to help you watch your first match in AR
+
+What are you waiting for? Launch the game and experience the future of eSports in your own own home!
+
+Please note that only the following devices running iOS 11 or higher support AR Spectator Mode:
+iPhone 6s/6s Plus
+iPhone 7/7 Plus
+iPhone SE
+iPad Pro (9.7, 10.5, or 12.9)
+iPad (2017)
+iPhone 8/8 Plus
+iPhone X
+
+Expand notes
+Version 2.6.0 (Oct 10, 2017)
+
+It’s the beginning of a new era for all of us who have gaming seeping through into our everyday lives.
+And we’re proud to present you with our own
+AUGMENTED REALITY (AR) SPECTATOR MODE
+
+- What is AR? – To put it simply, you can now merge what is happening inside the game with your surroundings. Your device works as a window to a world where your friends’ ongoing matches happen right on your coffee table
+- Easy Controls – It doesn’t even feel like technology, because you guide the camera with your own body, zooming in and out as you move in or back away. See the best moments up close and personal, and fly freely around the battlefield.
+- Battle notifications – follow your friends and get notified when they enter a match.
+- Simple Tutorial – to help you watch your first match in AR
+
+What are you waiting for? Launch the game and experience the future of eSports in your own own home!
+
+Please note that only the following devices running iOS 11 or higher support AR Spectator Mode:
+iPhone 6s/6s Plus
+iPhone 7/7 Plus
+iPhone SE
+iPad Pro (9.7, 10.5, or 12.9)
+iPad (2017)
+iPhone 8/8 Plus
+iPhone X
+
+Expand notes
+Version 2.5.1 (Sep 30, 2017)
+
+NEW GAME MODE
+- King of the Hill — Epic mode with one Control Point in the middle of the map — Lots of comebacks and team play
+- 2 new maps: Island and Saloon
+
+SOCIAL
+- Adding friends — Add any player you meet
+- Private Matches — Create custom battles
+
+CLANS
+- Clans member cap increased to 20
+- Chat — Reworked and cool
+- Regional clans — Play with people speaking the same language
+
+Expand notes
+Version 2.5.0 (Sep 28, 2017)
+
+NEW GAME MODE
+- King of the Hill - Epic mode with one Control Point in the middle of the map - Lots of comebacks and team play
+- 2 new maps: Island and Saloon
+
+SOCIAL FEATURES
+- Adding friends - Add any player you meet
+- Private Matches - Create custom battles
+- Nearby function - Fight other players using the same Wi-Fi
+
+CLAN FEATURES
+- Clans have 20 members now
+- Clan/Group Chat - Reworked and cool
+- Regional clans - Play with people speaking the same language
+
+Expand notes
+Version 2.2.2 (Sep 18, 2017)
+
+FIXES
+- The anti-cheat system works properly now.
+- The 'free case for a video' button is shown immediately now. It was a little too slow for our highly trained, fps players
+- The game's stability has significantly improved.
+- This update contains technical improvements and balance changes for Update 2.5.
+- Check out all of the balance changes on our Facebook page!
+
+Expand notes
+Version 2.2.1 (Aug 03, 2017)
+
+COOL CHANGES
+- Quick weapon switching! Double tap to change between weapons or reload — real handy!
+- Down with lag! We’ve optimized the game: there’s now less lag during battle, and arsenal items load much faster.
+
+CUSTOMIZATION
+- Cosmetic items can now be obtained for free by winning fights.
+- New masks, insignias, and weapon skins have been added.
+- New full-body character skins have been developed and added to the game.
+
+A NEW GOAL EVERY DAY
+- We’ve revised the quest system by adding daily tasks and making some quests easier to complete. Finish missions and get rewards!
+
+Expand notes
+Version 2.2.0 (Jul 19, 2017)
+
+CUSTOMIZATION
+- Cosmetic items can now be obtained for free by winning fights.
+- New masks, insignias, and weapon skins have been added.
+- New full-body character skins have been developed and added to the game.
+
+A NEW GOAL EVERY DAY
+- We’ve revised the quest system by adding daily tasks and making some quests easier to complete. Finish missions and get rewards!
+
+COOL CHANGES
+- We’ve added 6 new knives to the game — increase the damage you deal in melee combat.
+- The special effects of some pants and helmets have changed.
+- Connect your game to Facebook and monitor your friends’ progress!
+
+Expand notes
+Version 2.1.0 (Jun 08, 2017)
+
+NEW MODE
+- There’s a whole new game mode now — Control Points! Capture points, maintain control over them, and score more points than the enemy team.
+- Teamwork is the key to success! Co-op attacks on points, solo plays to distract your enemies, lightning-fast raids from both flanks — come up with your own strategy and leave your opponents in the dust!
+
+NEW FEATURES
+- Now you can watch Guns of Boom videos right in the game. Make and send your videos to us, and soon you’ll be overwhelmed with new viewers and subscribers!
+- Basic shotguns and sniper rifles have been improved.
+- Rate the maps you play on. We want to know your opinion!
+- A Wild West map has been added. So far it’s the only one in this setting, but we’ll make more.
+- Intermediate upgrade levels have been added to guns — now you can improve weapons more often and do it cheaper.
+- Network optimization.
+
+Expand notes
+Version 2.0.1 (May 16, 2017)
+
+v.2.0.1
+Every day we work on making Guns of Boom better and better and recently we've done a lot of cool stuff:
+- The shiny new interface has been polished
+- All 50 guns have been rebalanced
+- The network code has been stabilized
+We are proud to call this new version “Guns of Boom 2.0”!
+
+Additional changes:
+- We’ve cut the ‘extra’ zero from all gunbucks values – now the math is easier than ever.
+- Battle, quest, and free chest rewards have all been increased!
+
+Expand notes
+Version 1.9.5 (May 02, 2017)
+
+FOUR-PLAYER PARTIES — FREE FOR EVERYONE
+• Now you can create a party of up to four clan members, even without premium!
+
+CUSTOMIZATION AND FIXES
+• New character looks added.
+• Equipped masks no longer perform plastic surgery on you: your character's face doesn't change when you put on masks.
+• We’ve made numerous technical and visual improvements.
+
+Expand notes
+Version 1.9.3 (Apr 20, 2017)

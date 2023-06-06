@@ -1,0 +1,607 @@
+Improvement
+	improvement
+	improved
+Fix
+	fix
+You can now
+	You can now
+Added
+	Added
+Event
+	Event
+===========
+What's New
+Version 1.114.2 (Jun 10, 2019)
+
+Trainers! In our last release, you discovered brand-new Lure Modules to help you catch even more Pokémon from the Sinnoh region.
+What can you expect in this release?
+- GO Fest-related content—Are you ready for our summer events? Our first Pokémon GO Fest of the summer is coming up! Even if you won’t be joining us June 13–16 in Chicago, there are still tons of ways to join in the fun.
+
+Expand notes
+Version 1.113.1 (Jun 04, 2019)
+
+Trainers! In our last release, you discovered brand-new Lure Modules to help you catch even more Pokémon from the Sinnoh region.
+
+What can you expect in this release?
+- GO Fest-related content—Are you ready for our summer events? Our first Pokémon GO Fest of the summer is coming up! Even if you won’t be joining us June 13–16 in Chicago, there are still tons of ways to join in the fun.
+
+Expand notes
+Version 1.111.2 (May 17, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.111.1 (May 15, 2019)
+
+Bugfixes
+
+Expand notes
+Version 1.111.0 (May 14, 2019)
+
+- Bug Fixes
+
+Expand notes
+Version 1.109.0 (Apr 26, 2019)
+
+- Bug fixes
+
+Expand notes
+Version 1.107.3 (Apr 09, 2019)
+
+- Trainers who are Best Friends will have a chance of becoming Lucky Friends
+- You will be able to activate stacking notification badges for the Pokémon GO app
+- Various text and bug fixes and performance updates
+
+Expand notes
+Version 1.107.2 (Apr 03, 2019)
+
+- Trainers who are Best Friends will have a chance of becoming Lucky Friends
+- You will be able to activate stacking notification badges for the Pokémon GO app
+- Various text and bug fixes and performance updates
+
+Expand notes
+Version 1.105.2 (Mar 18, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.105.1 (Mar 08, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.103.0 (Feb 23, 2019)
+
+You can now use GO Snapshot to take photos of Pokémon in your collection
+
+Expand notes
+Version 1.101.1 (Feb 11, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.101.0 (Feb 01, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.99.4 (Jan 09, 2019)
+
+Bug fixes
+
+Expand notes
+Version 1.99.3 (Dec 20, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.99.2 (Dec 14, 2018)
+
+- Trainers can now challenge someone nearby to a Trainer Battle by scanning their Battle Code.
+- Trainers can send remote Trainer Battle challenges to their Ultra Friends or Best Friends.
+- Trainers can also Trainer Battle against team leaders Spark, Candela, and Blanche.
+- Trainer Battles take place in one of three different Trainer Battle Leagues, and each requires a team of three Pokémon. Each Trainer Battle League has different Pokémon CP limits.
+- Trainers can earn rewards for participating in Trainer Battles.
+- New hair colors and skin tones will be available for Trainer avatars.
+
+Expand notes
+Version 1.99.1 (Dec 12, 2018)
+
+- Trainers can now challenge someone nearby to a Trainer Battle by scanning their Battle Code.
+- Trainers can send remote Trainer Battle challenges to their Ultra Friends or Best Friends.
+- Trainers can also Trainer Battle against team leaders Spark, Candela, and Blanche.
+- Trainer Battles take place in one of three different Trainer Battle Leagues, and each requires a team of three Pokémon. Each Trainer Battle League has different Pokémon CP limits.
+- Trainers can earn rewards for participating in Trainer Battles.
+- New hair colors and skin tones will be available for Trainer avatars.
+
+Expand notes
+Version 1.97.2 (Dec 03, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.97.1 (Nov 27, 2018)
+
+- You will be able to connect to your Facebook account to add Facebook friends who are Pokémon GO Trainers (and have also chosen to enable this feature) to your Friend List
+- You will be able to reverse-sort your Friend List and Pokémon Storage
+- Pokémon caught prior to the current calendar year will now have a unique indicator
+- Various bug fixes and performance updates
+
+Expand notes
+Version 1.95.2 (Nov 14, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.95.1 (Nov 12, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.93.1 (Oct 29, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.91.2 (Oct 16, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.89.3 (Sep 29, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.89.2 (Sep 19, 2018)
+
+- PokéStop nominations will be available to level 40 players in Brazil and South Korea
+- You can now remove Pokémon from your Favorites while in the trade interface
+- You can now share an Exclusive Raid Pass with one friend
+- You can now swipe to dismiss in-app notifications
+- Various bug fixes and performance updates
+
+Expand notes
+Version 1.87.3 (Sep 04, 2018)
+
+Niantic Kids Parent Portal is now available
+
+Expand notes
+Version 1.87.2 (Aug 31, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.85.5 (Aug 27, 2018)
+
+- You can now use QR Codes to add friends
+- Improved Pokémon Collection search function lets you search using the term “Lucky”
+- You can now view map details for PokéStops on your screen
+- At-a-glance notifications now show when you have sent a Gift or increased your Friendship level with a friend
+- Additional setting options let you hide Recently Caught Pokémon from friends
+- In-game notifications have a new UI and interactive capabilities
+- Various bug fixes and performance updates
+
+Expand notes
+Version 1.85.4 (Aug 24, 2018)
+
+- You can now use QR Codes to add friends
+- Improved Pokémon Collection search function lets you search using the term “Lucky”
+- You can now view map details for PokéStops on your screen
+- At-a-glance notifications now show when you have sent a Gift or increased your Friendship level with a friend
+- Additional setting options let you hide Recently Caught Pokémon from friends
+- In-game notifications have a new UI and interactive capabilities
+- Various bug fixes and performance updates
+
+Expand notes
+Version 1.81.4 (Aug 08, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.81.3 (Jul 23, 2018)
+
+- When Pokémon are traded, there is chance that both traded Pokémon become Lucky Pokémon
+- You can now sort the Friends List and assign nicknames to Friends
+- Gifts may now contain Stardust
+- Trainers now receive XP for sending Gifts
+- Added the ability to delete unsent Gifts
+- Various bug fixes and performance updates
+
+Expand notes
+Version 1.79.2 (Jul 11, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.77.1 (Jun 20, 2018)
+
+- Added new social features that allow Trainers to add and remove Friends on their Friend List and build up their Friendship Level. As Trainers gain friendship they’ll earn bonuses when participating in Raid Battles.
+- Added a new gifting feature which allows Trainers to send friends Gifts they collect from PokéStops.
+- Added the ability for Trainers to trade Pokémon.
+- Improved Pokémon Collection screen search functionality enables Trainers to search using “Alola”.
+
+Expand notes
+Version 1.75.1 (Jun 08, 2018)
+
+- Improved in-game messaging for error codes.
+- Added ability to view and activate items, such as Rare Candy and TMs, directly from a Pokémon’s info screen.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.75.0 (May 29, 2018)
+
+- Improved in-game messaging for error codes.
+- Added ability to view and activate items, such as Rare Candy and TMs, directly from a Pokémon’s info screen.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.73.5 (May 23, 2018)
+
+- Trainers can now transform Rare Candy to a specific Pokémon’s Candy in bulk.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.73.3 (May 16, 2018)
+
+- Trainers can now transform Rare Candy to a specific Pokémon’s Candy in bulk.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.71.1 (Apr 30, 2018)
+
+- Aspect ratios and UI are now optimized for larger screens such as the iPhone X.
+- Lucky Eggs and Star Pieces are now accessible and usable from the Raid and Gym Battle inventories.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.69.2 (Apr 16, 2018)
+
+- The Nearby Pokémon indicator now prioritizes Pokémon that are not registered to your Pokédex and are at PokéStops near you.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.67.2 (Mar 29, 2018)
+
+- Introduced the new Field Research and Special Research feature that encourages Trainers to complete objectives to earn unique rewards.
+- Trainers can now discover the Mythical Pokémon Mew for the first time with Special Research!
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.65.3 (Mar 20, 2018)
+
+- Facebook credentials can now be used to log into the app via the ‘Account’ section in Settings.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.61.2 (Feb 15, 2018)
+
+Bug fixes
+
+Expand notes
+Version 1.61.1 (Feb 06, 2018)
+
+- Improved the in-game News feature.
+- The Pokémon Collection search function now lets Trainers search using “Shiny.”
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.59.1 (Jan 20, 2018)
+
+- Resolved a bug that caused the Pokémon collection screen to scroll to the top after evolving, transferring, or renaming a Pokémon.
+- Added the ability to sort the Pokédex by region.
+- Improved incubator sorting order when selecting an incubator.
+- Improved the way Pokémon scale throughout the app.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.57.5 (Dec 19, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.55.1 (Dec 07, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.53.2 (Nov 27, 2017)
+
+- Added support and made optimizations for the iPhone X screen resolution.
+- Removed support for devices running iOS 8.
+- Resolved a bug causing error banners to remain visible until the app is restarted.
+- Resolved a bug that prevented Trainers from powering up Pokémon to their max CP.
+- Improved load times when you open the app.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.49.4 (Nov 09, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.49.3 (Oct 17, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.47.1 (Oct 09, 2017)
+
+- A confirmation dialogue now appears when attempting to transfer costumed Pokémon.
+- Costumed Pokémon can no longer be mass-transferred.
+- Resolved a bug causing occasional network errors while battling in Gyms.
+- Resolved a bug causing Raid Battle lobbies to display the incorrect number of Trainers preparing for battle.
+- Resolved a bug causing the Pokémon selected in the Raid Battle lobby to be reset after clicking the items button.
+- Resolved a bug where some Curveballs weren’t registering properly.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.45.1 (Oct 04, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.45.0 (Sep 18, 2017)
+
+- Items received from spinning Gym PokéStops and completing Raid Battles are now displayed in the Journal.
+- Improved Pokémon Collection screen search functionality enables Trainers to search using “Defender” and “Legendary.”
+- Resolved a bug that caused Pikachu hats to disappear from the in-game model and icon.
+- Resolved a bug that caused some icons to disappear when scrolling through the Pokédex.
+- Various bug fixes and performance updates.
+
+Expand notes
+Version 1.43.1 (Sep 01, 2017)
+
+- Added the ability for Trainers to spin the Photo Disc at a Gym using the Pokémon GO Plus accessory.
+- Added the ability to view the number of Trainers entered, and preparing, for a Raid Battle before using a Raid Pass.
+- Improved Pokémon Collection screen search functionality by allowing Trainers to search through their Pokémon’s moves using the @ character.
+- Resolved a bug which caused the Raid Boss to always break free from the last Premier Ball.
+- Resolved a bug that prevented Trainers from seeing they’d received double XP from Raid Battles when using a Lucky Egg.
+- Various bug fixes.
+
+Expand notes
+Version 1.39.1 (Aug 01, 2017)
+
+- Spark has returned to appraise Pokémon for Team Instinct Trainers.
+- Resolved a motivation decay bug impacting Pokémon with less than 3000 CP.
+- Resolved a bug causing Pokémon GO to freeze after consuming potions too quickly.
+- Resolved a bug causing Pokémon GO to freeze after all 6 Pokémon faint during a Raid Battle.
+- Resolved an issue causing iPhone 6 devices to crash.
+
+Expand notes
+Version 1.39.0 (Jul 20, 2017)
+
+- Added icons to the Pokémon information screen to indicate how the Pokémon was caught.
+- Added the ability for Trainers to send Berries to their Pokémon defending Gyms through the Pokémon info screen when they are not nearby. Motivation regained will be less effective through this method.
+- Added the ability for Trainers to give Berries to Pokémon defending Gyms if their motivation meter is full.
+- Improved Pokémon Collection screen search functionality.
+- Various bug fixes.
+
+Expand notes
+Version 1.37.2 (Jun 30, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.37.1 (Jun 21, 2017)
+
+- Gym features significantly updated to add the all-new motivation system.
+- Added new Gym Badge feature.
+- Added in-app and push notification system for Gyms.
+- Added Raid Battles, a new cooperative gameplay experience.
+- Added four new items available only by completing Raid Battles.
+- Added Raids tab to Nearby screen.
+- Added search functionality to Pokémon collection screen.
+- Added visual indicator to unvisited PokéStops.
+
+Expand notes
+Version 1.33.4 (Jun 07, 2017)
+
+Bug fixes
+
+Expand notes
+Version 1.33.1 (May 12, 2017)
+
+- Added Brazilian Portuguese language support.
+- Tapping on a medal will now show your progress toward the next medal tier.
+
+Expand notes
+Version 1.31.0 (Apr 07, 2017)
+
+- Added Traditional Chinese language support.
+- Updated the Pokémon collection screen scroll bar.
+- Various bug fixes.
+- Minor text fixes.
+
+Expand notes
+Version 1.29.1 (Mar 24, 2017)
+
+- The 7-day ‘First PokéStop of the Day’ streak will now award a random Evolution item.
+- Minor text fixes.
+
+Expand notes
+Version 1.27.4 (Mar 06, 2017)
+
+- Minor text fixes.
+
+Expand notes
+Version 1.27.3 (Feb 27, 2017)
+
+Performance improvements
+
+Expand notes
+Version 1.27.2 (Feb 16, 2017)
+
+- Added Poké Ball and Berry selection carousels to the encounter screen.
+- Added new night-mode map and encounter music.
+- Implemented Apple Watch connection stability improvement.
+- Various bug fixes.
+- Minor text fixes.
+
+Expand notes
+Version 1.25.0 (Feb 01, 2017)
+
+- Integrated iOS wheelchair support for use with Apple Watch.
+- Minor text fixes.
+
+Expand notes
+Version 1.23.2 (Jan 23, 2017)
+
+- Added Korean language support
+
+Expand notes
+Version 1.23.1 (Jan 18, 2017)
+
+- Updated Apple Watch to display Eggs obtained from PokéStops
+- Changed distance tracking to better account for GPS drift
+- Minor text fixes.
+
+Expand notes
+Version 1.21.2 (Dec 22, 2016)
+
+- Pokémon GO for Apple Watch
+- Minor text fixes
+
+Expand notes
+Version 1.21.0 (Dec 20, 2016)
+
+- The bug that caused incorrect vibration notifications has been fixed.
+- Day and night modes have changed to more accurately reflect the Trainer’s current time of day.
+- Minor text fixes.
+
+Expand notes
+Version 1.19.1 (Dec 08, 2016)
+
+- Trainers will be able to transfer multiple Pokémon at a time to Professor Willow. To use this function, press and hold on a Pokémon.
+- Pokémon type icons have been added to the Gym battle approach and Gym battle screen.
+- The total Candy count for your Buddy Pokémon has been added to the buddy information screen.
+- The total kilometers a buddy has walked has been added to the information screen of each Pokémon that has ever been your buddy.
+- Minor text fixes.
+
+Expand notes
+Version 1.17.0 (Nov 19, 2016)
+
+- Fixed an issue where the Egg-hatching cutscene animation would sometimes be briefly visible from the map view.
+- Minor text fixes
+
+Expand notes
+Version 1.15.0 (Nov 07, 2016)
+
+- You’ll earn bonuses for the first Pokémon catch and PokéStop visit each day. You’ll receive a larger bonus when you do this seven days in a row.
+- When you defeat the Gym Leader at a rival Gym, there will be a brief period of time where only you will be able to place a Pokémon in the open Gym.
+- The amount of Prestige a rival Gym loses when you defeat a regular Gym member has increased. The amount of Prestige gained by training at a friendly Gym has been lowered.
+- Minor text fixes
+
+Expand notes
+Version 1.13.4 (Oct 26, 2016)
+
+Minor bug fixes
+
+Expand notes
+Version 1.13.3 (Oct 24, 2016)
+
+- Professor Willow discovered that Eggs have different patterns depending on the distance required to hatch them.
+- Pokémon type icons have been added to the information screen for each Pokémon.
+- Low battery indicator added for the Pokémon GO Plus.
+- Minor text fixes
+
+Expand notes
+Version 1.11.4 (Oct 14, 2016)
+
+- Minor fixes
+
+Expand notes
+Version 1.11.2 (Oct 12, 2016)
+
+- Catch Bonus: Trainers can earn a catch bonus for a Pokémon type as they catch more of a specific type.
+- Updated Gym Training: Trainers can now bring six Pokémon to battle at friendly Gyms. The CP of the Pokémon you are battling may be temporarily adjusted lower for your training session.
+- Egg & Incubator Screens: These will periodically update the distance walked without the Trainer needing to close and reopen the screen.
+- Fixed several audio issues.
+- Decreased the evolution animation time.
+- Minor fixes
+
+Expand notes
+Version 1.9.0 (Sep 24, 2016)
+
+- Capture location: The location where a Pokémon was caught will now be displayed on their information screen.
+- Pokémon GO Plus and Incense: Trainers can attempt to capture Pokémon they encounter from using Incense with the Pokémon GO Plus accessory.
+- Fixed a bug that caused some users to get stuck on the loading screen, even after restarting the app.
+- Fixed a bug where the camera sometimes moved at slow speeds during battle.
+- Minor bug fixes
+
+Expand notes
+Version 1.7.1 (Sep 16, 2016)
+
+- Pokémon GO Plus stability improvement
+- Added quick help when first connected to Pokémon GO Plus
+- Minor text fixes
+
+Expand notes
+Version 1.7.0 (Sep 13, 2016)
+
+- Added Pokémon GO Plus support
+- Implemented Buddy Pokémon: Trainers will now be able to choose one of their Pokémon as a buddy. The buddy Pokémon will earn a Candy after a certain distance is traveled
+- Fixed an issue where Eggs would sometimes hatch without displaying the animation
+- Fixed network reliability issues
+- Minor text fixes
+
+Expand notes
+Version 1.5.0 (Aug 24, 2016)
+
+- Implemented Pokémon Appraisal: Trainers will now be able to learn about a Pokémon’s attack and defense capabilities from their Team Leader (Candela, Blanche, or Spark) to determine which of their Pokémon have the most potential for battle.
+- Fixed a bug that kept defeated Pokémon at 1HP; these Pokémon will now return as fainted Pokémon. We’re working on rebalancing the training battle, stay tuned.
+
+Expand notes
+Version 1.3.1 (Aug 11, 2016)
+
+- Stability improvements
+- No text fixes
+
+Expand notes
+Version 1.3.0 (Aug 08, 2016)
+
+Pokémon GO has been updated to version 1.3.0. Below are some release notes and comments:
+
+- Added a dialog to remind Trainers that they should not play while traveling above a certain speed. Trainers must confirm they are not driving in order to continue playing
+- Made improvements to the accuracy of a curveball throw
+- Fixed a bug that prevented ”Nice,” ”Great,” and “Excellent” Poké Ball throws from awarding the appropriate experience bonuses
+- Fixed achievements showing incorrect Medal icons
+- Enabled the ability for Trainers to change their nickname one time, so please choose your new nickname wisely
+- Resolved issues with the battery saver mode and re-enabled this feature
+- Added visuals of Team leaders - Candela, Blanche and Spark
+- We're currently testing a variation of the "Nearby Pokémon" feature with a subset of users. During this period you may see some variation in the nearby Pokémon UI.
+- Minor text fixes
+
+Expand notes
+Version 1.1.1 (Aug 01, 2016)
+
+- Performance improvement in Pokémon details and list screens.
+- Correct link for app upgrade.
+
+Expand notes
+Version 1.1.0 (Jul 30, 2016)
+
+- Trainer avatars can now be re-customized from the profile screen
+- Adjusted some Pokémon battle move damage values
+- Refined certain Gym animations
+- Improved memory issues
+- Removed footprints of nearby Pokémon
+- Adjusted battle damage calculation
+- Various bug fixes during wild Pokémon encounter
+- Updated Pokémon details UI
+- Updated achievement medals art
+- Fixed issues with displaying certain map features
+- Minor text fixes
+
+Expand notes
+Version 1.0.3 (Jul 20, 2016)
+
+Minor text fixes.
+
+Expand notes
+Version 1.0.2 (Jul 13, 2016)
+
+Fixes for Pokemon Trainer Club login
+
+Expand notes
+Version 1.0 (Jul 05, 2016)

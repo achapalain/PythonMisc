@@ -1,0 +1,542 @@
+New Mode
+	arcade mode
+	night mode
+	event mode
+	new mode
+
+=============
+
+What's New
+Version 0.13.0 (Jun 12, 2019)
+
+Brand New Mode: Team Deathmatch!
+Team up with your friends and jump into the fray of 4v4 battles.
+Log in now to explore the latest updates!
+
+What's new:
+
+- Added Team Deathmatch mode to EvoGround. This new mode features fast-paced firefights in both FPP and TPP. Players can also create their own rooms with room cards
+- Added control settings for FPP. Players can now have separate settings for TPP and FPP
+- Upgraded 3rd party app prevention system and enhanced detection of cheating behavior via Virtual App, emulators and modifiers
+- Added MVP showcase system at the end of each match. All players will receive a default MVP pose. The top 3 players in Classic mode or the MVP of the winning squad in TDM will be featured
+- In Vikendi, players will now leave footprints, trails and tire tracks on snow
+- Added a dedicated button for climbing that can be enabled in the settings
+- When killed by friendly fire, now players can decide if the teammate should lose merit or not
+- Added a Godzilla theme. Godzilla themed lobby background will be available together with many themed events and rewards after the update
+- Added new popularity gift and ranking reward. Every week, the top 100 players in the list may collect the title All-time Popularity or Recent Popularity
+- Added Charisma Ranking. The permanent outfits and firearm/vehicle finishes collected by a player will increase their Charisma
+- New Achievements:
+Victory Legion: Complete 1/5/10/20 matches with Dominating in Team Deathmatch
+Alpha & Omega: Get the first kill and final blow in a Team Deathmatch
+T-800: Achieve Terminator 1 time in Team Deathmatch
+Envoy of War: Complete a series of missions in Team Deathmatch.
+
+Other Improvements
+- Survive Till Dawn and Darkest Night changes:
+1. The old zombies have been replaced by 4 types of new zombies
+2. Liquid Nitrogen Grenades now leave behind a cloud of freezing smoke on the ground for a long period after explosion, reducing the movement speed of any unit in the area
+3. Added new mode combat modifiers
+4. Certain zombies now have new abilities: Tanks will empower nearby allies; Skinners can slow nearby players
+5. A new factory has replaced the police station
+
+- Inventory improvements:
+1. Players can now combine items in batches
+2. Equipped items will be displayed on top
+3. Duplicated new items will no longer be indicated by a red dot and the "new" tag
+4. The Backpack and Helmet tabs have been moved to the Customization tab.
+
+- Arcade mode opening times have been adjusted. Mondays and Wednesdays: Sniper Training & War; Tuesdays and Thursdays: Mini-Zone & Quick Match; Fridays to Sundays: All Arcade modes are available. All times are in UTC
+- Protective items are now 25% more durable. Their effectiveness remains unchanged
+- Players can now bolt/reload a bolt action rifle while moving instead of completing the process while aiming down sights
+- Improved the animation in FPP when running while holding an SMG.
+- Vehicles now have improved feedback on explosions
+- Event Center now has improved interactions and better tutorials for the event missions
+- Crew Challenge Qualifying Round has been expanded. Now 6 qualifying matches will be held every day, up from 5. Each squad can participate up to 3 matches per day, up from 2. Each squad is allowed to participate a total of 18 qualifying matches, up from 12. And new items have been added to the Crew Shop
+- Players who have registered for Crew Challenge will now receive a notice 10 minutes before a match starts
+- Players can now collect all rewards from daily missions, progress missions and achievements all at once
+- Added 3 new Clan Insignias for Lv. 7, Lv. 9, and Lv. 10
+- Added a latency indicator to the main screen. Green, yellow, and red represents a good, average, or bad connection
+
+Expand notes
+Version 0.12.0 (Apr 17, 2019)
+
+New Feature: EvoGround
+- Replaces Event mode
+- Survive Till Dawn is now under this mode
+- More new modes will be added in the future
+
+New EvoGround Mode: Darkest Night
+- Stay alive for one night while fighting zombies
+- All teams that are still alive at dawn will win
+
+Changes to Survive Till Dawn:
+- Stun Grenades now also stun zombies
+- Added Liquid Nitrogen Grenades to freeze enemies and reduce their movement speed
+- Added jumping zombies and zombie dogs
+- Some zombies can now climb over low walls or onto roofs
+- Added RPG-7 and Jungle Style Magazines
+- Flamethrowers now deal more damage
+- M134 handling has been tuned
+- Players will gain affixes that grant certain buffs
+- Zombies now move slower after being hit by firearms
+- Added Survive Till Dawn quick chat messages to Default and Classic voice packs
+- Daily missions can now be completed in Survive Till Dawn
+
+New Feature: Companion System
+- Enemies will not be able to see them, so there is no exposure risk
+
+- Players can now spectate matches that their friends, Crews or Clan members are currently in, and view others' information while spectating as well as adjust Spectator Mode privacy settings
+- Scope crosshair colors can now be changed in settings
+- Portable Closets can now be swapped while in a match
+- Spring Theme and Treasure is now available. Each draw guarantees a unique reward, and Sakura Dacia or Pink Rose Set is a guaranteed drop when drawing 10
+- Popularity has been added to Spaces. Players can now show their support by giving LIKEs to one another, and become Partners with friends that have 400 Synergy or more. Partners will appear in each other's Spaces
+- Players can now add Shop items as Favorites and be notified when these items are on sale
+- Duplicated time-limited items will now be stacked to only show 1 icon per item with total amount of time remaining (maximum duration is 999 days)
+- New Achievements: Best Companion, Superstar, Winning Culture, Adventurer, Until Dawn, and A Step Too Far
+
+Other Improvements
+- Automatic door-opening has been tuned
+- Dynamic weather odds have been tuned
+- More buildings have been added to Dino Park, Coal Mines and Goroka in Vikendi
+- Crew Challenge qualifying round has been expanded, and top 10 teams now get unique outfits
+- Emulator detection enhanced to stop emulator players from being matched with players on mobile devices
+- Friend invitations now show map and lag information
+- Quick Chat messages are now edited in Inventory
+- Quick Chat messages can now be displayed as a wheel to make sending messages faster and easier
+- Shadow effects can now be disabled to reduce resource consumption, heat and battery usage
+- Added a reminder on dismantling duplicated items for Silver
+- Previews are now available in some pages. Tap the reward icon to preview outfits
+- Gallery now only show items currently in stock at the Shop
+- Cloth Bandana (Leopard) with first purchase has ended. Rewards for first purchase of the season will be updated
+- RP Backpack now remember settings from the previous season
+- Mythic outfit emotes can now be heard by more players
+- Added haptic feedback to some buttons
+- Added animation for dropping empty magazines when reloading
+- Animation for throwing grenades while prone has been tuned
+- Animation added for opening/closing doors
+- Fixed a bug where hair was not displayed correctly when equipping certain headgear
+- Fixed a bug where Season 6 Pants caused graphic glitches in certain footgear
+- Fixed a bug where doors were not displayed properly
+- Fixed a bug where players may get stuck in buildings in certain areas
+
+Expand notes
+Version 0.11.0 (Feb 19, 2019)
+
+What's New
+- Added Zombie: Survive Till Dawn, a new event mode that is here for a limited time only. Fight to survive as usual on Erangel, but zombies and bosses from RE2 will also spawn on the map! Kill them to get resources and items.
+- Added weather: Moonlight to Vikendi.
+- Added Resident Evil 2 Treasures event. Get your Resident Evil 2 outfits now!
+- Added Anniversary Treasure event. Celebrate the game's anniversary with all kinds of rare finishes!
+- Added Resident Evil 2 main menu theme and music.
+- Anniversary items are on sale while quantities last!
+- Added Anniversary emotes, avatars and frames.
+- Sanhok is now available in Arcade - Quick Match.
+- Character image and Connections are now visible on profile.
+- Added new titles: "#1/100" (permanent) and "Survivor" (time-limited).
+
+Other Improvements
+- Shadows can now be disabled under settings to reduce battery usage and heat.
+- Some houses in Vikendi have been redesigned.
+- SMG and Assault Rifles War Modes now start with double the ammo.
+- Past results are now kept up to 1 month. Older data will be cleared.
+- Fixed terrain display bugs for budget devices.
+
+Expand notes
+Version 0.10.0 (Dec 18, 2018)
+
+Vikendi, a 6km x 6km snow map, is coming in the new update! Availability will be announced at a later date, so make sure to keep an eye out!
+
+- New weather added: Snow
+- Vikendi-exclusive vehicle: Snowmobile
+- Snowball Fight added to Vikendi's Spawn Island.
+
+- Added a Snow theme to the main menu. Collect bells from all Classic mode matches and exchange them for rewards at the event center!
+
+- Added Arabic language support.
+
+- Added cross-server matchmaking. After enabling, players have a chance to be matched with players of the same tier on other servers.
+
+- Players that repeatedly exit matches right after starting will now be banned from finding matches for a certain period of time.
+
+- Players may now report suspicious behavior while spectating after dying.
+
+- Added a display for Crew Challenge winners on Erangel's Spawn Island.
+
+- Players now can collect all daily mission awards at once.
+
+- New commands added to Quick Chat.
+
+- Added Firearms Finish Upgrade System, where players can use materials at the Lab to upgrade certain weapon finishes, in order to get additional kill effects, unique kill broadcasts, and death crate appearances.
+
+- Added Lucky Treasure, a feature that gives players a chance to get the upgradable weapon finish Glacier - M416 when they finish daily missions.
+
+- Added Season spending rewards. Spend different amounts to get excellent rewards and large discounts on firearm finishes.
+
+- Added a feature in the backpack to show sources of unobtained items when tapped.
+
+Other Improvements
+- Players now do not need to select a second language for matchmaking and chat.
+- Chat system now takes up less memory and stores more messages.
+- Shop's front page has been optimized to emphasize themes of each major update.
+
+Expand notes
+Version 0.9.0 (Oct 25, 2018)
+
+Erangel
+- Added night mode. The map will alternate between day and night randomly in Classic Mode.
+- Added Night Vision Goggles.
+
+Halloween
+- Interact with other players on Spawn Island by picking up pumpkins and candies.
+- Enemies killed by Hellfire — AKM will become scarecrows.
+- Scary face appears when a grenade explodes.
+- Earn candies through a Halloween lucky draw to get Halloween-exclusive vehicle finishes.
+- Earn Trick Ticket Scraps, combine them into Trick Tickets for the lucky draw!
+- Added a Halloween theme to the main menu.
+
+Weapons and Vehicles
+- Added the QBU DMR. Fires 5.56mm rounds and can be found in Sanhok.
+- Added the Rony pickup truck. Only available in Sanhok.
+
+S4D
+- Added a "Share for Deals" feature. Get your friends to help you bargain, then get the item at a huge discount or even for free!
+
+Customizable Outfits
+- Players can now select outfit colors before purchasing.
+
+Spectator Mode
+- Players can now watch other players until the end of the match after being killed.
+
+Crews
+- Crews are now limited to 6 players.
+
+Crew Challenge
+- Leaders can register their Crews for this tournament.
+- Added new currency: Challenge Coin. Use this in the Crew Challenge Shop.
+
+Advanced Room Settings
+- Advanced Room Cards enable room owners to set weapons, attachments, Playzone shrink speed and other parameters.
+
+Matchmaking
+- Added an option where the system will find teammates that speak the same language.
+
+Achievements
+- Added more categories to achievements.
+
+Crates
+- Added Classic Crates with tons of rare items.
+
+Other improvements:
+- Resolved some stuttering and hanging issues.
+- Resolved some game-crashing issues.
+- Resolved some blurry screen issues.
+- Improved matchmaking. Finding a match should be faster now and players should reach their appropriate tiers more easily.
+- Redesigned some elements of the Royale Pass missions page.
+- Redesigned the art for the gift feature and added a Halloween envelope.
+
+Expand notes
+Version 0.8.0 (Sep 12, 2018)
+
+New Map: Sanhok
+Sanhok can be downloaded independently, so enter the game and get it right away to join your friends in the rainforest!
+It also comes with new weapons and vehicles:
+- Flare Gun: a rare item that calls a super air drop if used within the Playzone, and a Bulletproof UAZ if used outside the Playzone.
+- QBZ: an automatic rifle that fires 5.56mm rounds. Has both single shot and full-auto.
+- Duckbill: an attachment for shotguns. Reduces vertical spread and increases horizontal spread.
+- Muscle Car: 4 seats, and has both a hard-top and a convertible version.
+- Bulletproof UAZ: 4 seats. Obtained from using the Flare Gun outside the Playzone.
+
+Customizable Pick-up Settings
+- Pick-up quantities can now be specified in settings.
+
+Achievements
+- Added more achievements. Now can be found under Missions.
+
+Clans
+- Clan Perks: after getting specific items (through purchase or luck), the system will award a certain amount of UC for players to share it with other Clan members.
+- New Clan titles can be equipped after purchase.
+- Clan Rankings: now lists the most active Clans this week and this season.
+
+Anti-Cheating Measures
+- Improved recognition of cheating plug-ins.
+- Added Report buttons to Spectator Mode, Basic Information and Results.
+
+Dismantling Time-Limited Items
+- Time-Limited items can now be dismantled to BP directly.
+
+Progress Missions
+- Added a Collect All button to collect rewards of all completed missions.
+
+Royale Pass
+- Added new mission types to make progression more fun.
+
+Lucky Air Drops
+- Chance to get a mystery drop after a match. Contents are customized!
+
+Season Data
+- Season page now shows all seasons played and relevant data such as season titles, the highest tier reached and more.
+
+Improvements
+- Friends can now be deleted in batches.
+- 3D models added to vehicle and airplane finish previews in the shop.
+- Animation on the Season page has been optimized for certain device models.
+- Accidental friendly fire will not be penalized.
+- Chat system has been tuned.
+- Items contains in air drops have been tuned.
+
+Expand notes
+Version 0.7.0 (Jul 24, 2018)
+
+What's New
+
+Arcade Mode - War
+- A new, faster-paced variation of Arcade mode.
+
+New Weapon
+- Added the SLR Sniper Rifle.
+- Added Light Foregrip, Half Foregrip, Thumb Foregrip.
+- Parameters for Vertical Foregrip and Angled Foregrip have been adjusted.
+
+Achievements
+- Added many entertaining and challenging long-term objectives. Complete difficult objectives to get titles and outfits.
+
+Titles
+- Added titles to the game. Players can select one to display by their name.
+
+Clans
+- Players can now create or join Clans, which unlocks Clan insignia, missions, and the Clan Shop.
+
+Regions
+- Check out the regional rankings to see who's the best.
+
+First Person Perspective
+- Now supported in custom rooms.
+
+Chat System
+- Added a team channel for finding teams.
+- Added a community system where players can find topics that interest them by tags.
+
+LIKE Feature
+- Players can now give one another LIKEs after a match. Number of LIKEs received will be displayed on a player's profile page.
+
+New Animations
+- Characters now have different poses on the results screen based on performance.
+- Added new idling animation for female characters.
+
+Main Menu UI Redesign
+- Main UI redesigned for players to enter different modes quicker.
+
+Shop UI Redesign
+- Simplified shop UI.
+
+Multiple Crate Purchases and Batch Dismantle
+- All crates can now be purchased 10 at a time.
+- Extra items in inventory can now be dismantled in batch.
+
+Crate Coupons
+Crates can now be opened by coupons, which are created by combining coupon scraps.
+
+Miscellaneous
+- Added new vehicles, helmets, backpack finishes and new character faces.
+
+Other Improvements
+- Messages can now be marked as read instantly.
+- Players can see friends recommended by the system.
+- Added more ways to share.
+- Room owners now have access to more room parameters.
+- Friends list has been improved to fix an issue where data errors occurred when having too many friends.
+- Added weapon information to spectator mode.
+- Added an instant refuel button so that vehicles low on fuel can be refueled instantly.
+- Custom controls: sprint button, pick-up list.
+
+Expand notes
+Version 0.6.1 (Jun 27, 2018)
+
+What's New:
+
+Royale Pass
+- This is a brand new feature! Complete daily and weekly missions to earn points and increase your rank. Complete a certain number of missions every week for additional crates.
+- Reach a new Royale Pass rank to unlock its rewards. Players with a busy schedule have the option to purchase ranks directly to unlock rewards.
+- An elite version of the Royale Pass is also available. Purchasing the Elite Royale Pass unlocks elite missions to earn more points and collect additional rewards for each rank.
+- Season 1 of Royale Pass starts in mid-June. It will be available for purchase for all players.
+First-Person Perspective (FPP)
+- Added first-person perspective variation to Classic Mode.
+- FPP has its own tier system.
+Mini-Zone
+- 100 players, smaller map, three times the resources and air drops!
+Weapon Finishes
+- Added weapon finishes to the game.
+- New finishes can be obtained in the game and applied to your weapons.
+Airplane Finishes
+- Added airplane finishes to the game.
+- The player with the highest Royale Pass rank in a match can change the plane's finish before parachuting.
+Armory
+- Added an Armory where you can view all the weapons in the game and add attachments to see how effective they are.
+Pistols
+- Pistols now get their own slot on the match UI and in the backpack.
+Melee Weapons
+- Melee weapons can now destroy tires on vehicles.
+Voice System
+- Players can now mute individual teammates.
+- Improved voice chat system during matches.
+Results
+- Added a new post-match results screen.
+Tier Protection
+- Added a tier protection system to protect players from being demoted.
+Characters
+- Added Asian characters.
+- Added character profiles.
+- Added simple emotes so players can interact with one another. More emotes are available via the Royale Pass.
+Social Network Link
+- Players can now link one additional social network, for a total of two.
+Room Cards
+- Added room cards, which can be used to start rooms. They are available via Royale Pass.
+Shop
+- Added parachutes, weapon finishes, avatars, avatar frames, and other new items.
+- Items can be gifted to friends.
+
+Miscellaneous
+- Added career results screen.
+- Added a character customization page, accessible from the profile screen.
+- Added different sound effects for the winner and runner-up at the end of the match.
+- Added a reminder tone for the last five seconds before boarding.
+- Added a marking feature for quick chat. Players can now mark loot locations or dangerous spots.
+- UI and sensitivity information is now saved locally.
+- Added a Shop for trading Silver Fragments for Outfits.
+- Added background noises for some zones, such as the sound of waves crashing when you're near the shore.
+- Added more customizable buttons.
+- Added Miramar to Arcade Mode.
+
+Fixes/Improvements
+- Vehicles no longer deal damage to teammates.
+- Improved throwing animation, grenade explosion, and smoke grenade effects.
+- Fixed 8x scope and vehicle camera bugs in Spectator Mode.
+- Fixed choppy voice chat bugs and Bluetooth headset disconnect bugs.
+- Improved UI and vehicle sound effects.
+- Improved sound mixing when firing indoors.
+
+Expand notes
+Version 0.6.0 (Jun 19, 2018)
+
+What's New:
+
+Royale Pass
+- This is a brand new feature! Complete daily and weekly missions to earn points and increase your rank. Complete a certain number of missions every week for additional crates.
+- Reach a new Royale Pass rank to unlock its rewards. Players with a busy schedule have the option to purchase ranks directly to unlock rewards.
+- An elite version of the Royale Pass is also available. Purchasing the Elite Royale Pass unlocks elite missions to earn more points and collect additional rewards for each rank.
+- Season 1 of Royale Pass starts in mid-June. It will be available for purchase for all players.
+First-Person Perspective (FPP)
+- Added first-person perspective variation to Classic Mode.
+- FPP has its own tier system.
+Mini-Zone
+- 100 players, smaller map, three times the resources and air drops!
+Weapon Finishes
+- Added weapon finishes to the game.
+- New finishes can be obtained in the game and applied to your weapons.
+Airplane Finishes
+- Added airplane finishes to the game.
+- The player with the highest Royale Pass rank in a match can change the plane's finish before parachuting.
+Armory
+- Added an Armory where you can view all the weapons in the game and add attachments to see how effective they are.
+Pistols
+- Pistols now get their own slot on the match UI and in the backpack.
+Melee Weapons
+- Melee weapons can now destroy tires on vehicles.
+Voice System
+- Players can now mute individual teammates.
+- Improved voice chat system during matches.
+Results
+- Added a new post-match results screen.
+Tier Protection
+- Added a tier protection system to protect players from being demoted.
+Characters
+- Added Asian characters.
+- Added character profiles.
+- Added simple emotes so players can interact with one another. More emotes are available via the Royale Pass.
+Social Network Link
+- Players can now link one additional social network, for a total of two.
+Room Cards
+- Added room cards, which can be used to start rooms. They are available via Royale Pass.
+Shop
+- Added parachutes, weapon finishes, avatars, avatar frames, and other new items.
+- Items can be gifted to friends.
+
+Miscellaneous
+- Added career results screen.
+- Added a character customization page, accessible from the profile screen.
+- Added different sound effects for the winner and runner-up at the end of the match.
+- Added a reminder tone for the last five seconds before boarding.
+- Added a marking feature for quick chat. Players can now mark loot locations or dangerous spots.
+- UI and sensitivity information is now saved locally.
+- Added a Shop for trading Silver Fragments for Outfits.
+- Added background noises for some zones, such as the sound of waves crashing when you're near the shore.
+- Added more customizable buttons.
+- Added Miramar to Arcade Mode.
+
+Fixes/Improvements
+- Vehicles no longer deal damage to teammates.
+- Improved throwing animation, grenade explosion, and smoke grenade effects.
+- Fixed 8x scope and vehicle camera bugs in Spectator Mode.
+- Fixed choppy voice chat bugs and Bluetooth headset disconnect bugs.
+- Improved UI and vehicle sound effects.
+- Improved sound mixing when firing indoors.
+
+Expand notes
+Version 0.5.0 (May 15, 2018)
+
+What's New
+- Desert map ("Miramar") is now available for selection. See if you can find the new vehicles and weapons!
+- New Progress Mission: collect progress rewards when you reach new levels, then take on new missions.
+- Added weekly Activity missions: earn rewards based on your Activity.
+- Added local quick team feature: enter a 6-digit code to team up with friends that are next to you.
+- Added Synergy and Connections: interact with your friends in-game to raise Synergy, then build Connections when your Synergy is high enough.
+- Added Regions: now you can choose your region and flag.
+- Added language-specific chat channels: there is now an additional channel based on the language of your choice.
+- Added more avatars.
+- Now you can collect rewards for every new tier reached in Season 2.
+- Added a Shop, where you can preview and purchase new outfits and items.
+- Added a Secret Stash, where you can purchase special discounted items.
+
+Improvements:
+- Spectator mode smoothness improved.
+- Striking sounds and effects added to melee combat.
+- Parachute camera smoothness improved.
+- Initial parachute speed increased to match the PC version.
+- Improved climbing check during running.
+- Picture styles now available on all devices.
+- Added sound effects for breaking doors.
+- Improved display of personal information and results.
+- Improved team invitation flow.
+
+Expand notes
+Version 0.4.0 (Apr 22, 2018)
+
+Major updates:
+- Arcade Mode: a new mode with 28 players and one of the six following variations: Shotguns, Sniper Rifles, All Weapons, Melee, Pistols and Item Heaven.
+- Training Grounds: try out all the weapons and practice your shooting skills.
+- Added 3D Touch firing options to iOS.
+
+Over 20 items of game optimization, including:
+- Added a new setting: Dusk.
+- Added Follow function (both before parachuting and after landing).
+- Added automatic door opening, can be enabled in Settings.
+- Pause between picking up multiple items automatically has been adjusted.
+- 4x and 8x scope choppy issue resolved.
+- Added a performance chart to the Results screen.
+- Adjusted sound effects and some voice chat issues.
+- Leaning: movement speed increased, added “Lean & Open Scope” and “Lean & Fire”.
+- Enhanced combat experience.
+- Added flipping tricks for motorcycles.
+- Added Nitrous Oxide engines to cars.
+- Previously used vehicles are now marked on the mini-map.
+
+Expand notes
+Version 0.3.3 (Mar 29, 2018)
+
+- Now supports the following languages: German, Russian, French, Spanish, Portuguese, Turkish, Traditional Chinese, Thai and Bahasa Indonesia
+- Facebook users can now change their in-game icons
+- Improved compatibility with iPhone 5s, iPad Air, iPad mini 2 and iPad mini 3
+- Various bug fixes
+
+Expand notes
+Version 0.3.0.3212 (Mar 17, 2018)

@@ -1,0 +1,717 @@
+Free Battle pass
+	For free
+New Season
+	Season \d* Battle Pass is available now
+	SEASON \d* IS HERE
+	SEASON \d* has arrived
+New items
+	New item
+	New foraged item
+	Holiday item
+	new weapon
+	latest weapon
+	try the grappler
+	port-a-fortress
+	new glider
+New Vehicle
+	New vehicle
+	new shopping cart
+New feature
+	party assist
+	SLIPSTREAMS
+	storm bottle
+	storm flip
+	introducing 
+Timed Event
+	Limited time
+	Game on
+Creative update
+	Creative
+	
+=============
+
+What's New
+Version 9.21.1 (Jun 13, 2019)
+
+STORM FLIP - Control the weather! Throw this item into the safe zone to create a Storm zone or use it in the Storm to create a safe zone.
+
+Expand notes
+Version 9.21.0 (Jun 12, 2019)
+
+STORM FLIP - Control the weather! Throw this item into the safe zone to create a Storm zone or use it in the Storm to create a safe zone.
+
+Expand notes
+Version 9.20.1 (Jun 07, 2019)
+
+STORM FLIP - Control the weather! Throw this item into the safe zone to create a Storm zone or use it in the Storm to create a safe zone.
+
+Expand notes
+Version 9.20.0 (Jun 06, 2019)
+
+STORM BOTTLE - Control the weather! Throw this item into the safe zone to create a Storm zone or use it in the Storm to create a safe zone.
+
+Expand notes
+Version 9.10.0 (May 22, 2019)
+
+HOT SPOTS - Shoot down Loot Carriers to acquire additional weapons at randomly selected locations on the map
+
+Expand notes
+Version 9.01 (May 15, 2019)
+
+SEASON 9 BATTLE PASS - The Season 9 Battle Pass is available now! Unlock Outfits, Emotes, and Wraps as you play through Season 9!
+
+THE FUTURE IS NOW - The volcano has erupted and has forever changed some long lasting locations. Explore the island to see what's new!
+
+SLIPSTREAMS - Get around locations quickly with these new environmental devices.
+
+Collapse notes
+Version 9.00.0 (May 09, 2019)
+
+SEASON 9 BATTLE PASS - The Season 9 Battle Pass is available now! Unlock Outfits, Emotes, and Wraps as you play through Season 9!
+
+THE FUTURE IS NOW - The volcano has erupted and has forever changed some long lasting locations. Explore the island to see what's new!
+
+SLIPSTREAMS - Get around locations quickly with these new environmental devices.
+
+Collapse notes
+Version 8.51.0 (May 02, 2019)
+
+Additional stability improvements and bug fixes
+
+Expand notes
+Version 8.50.0 (Apr 25, 2019)
+
+Additional stability improvements and bug fixes
+
+Expand notes
+Version 8.40.1 (Apr 19, 2019)
+
+BATTLE PASS OWNERS - Prepare for Ruin. The Week 8 Battle Pass Outfit has been revealed! Complete your Weekly Challenges now to unlock Ruin in Week 8.
+
+BALLER CONTROLS - We've updated the Baller controls in the HUD Layout Tool for a better player experience.
+
+HOLIDAY ITEM - Explore the island this Easter and send out some fun with the Egg Launcher!
+
+Collapse notes
+Version 8.40.0 (Apr 17, 2019)
+
+BATTLE PASS OWNERS - Prepare for Ruin. The Week 8 Battle Pass Outfit has been revealed! Complete your Weekly Challenges now to unlock Ruin in Week 8.
+
+BALLER CONTROLS - We've updated the Baller controls in the HUD Layout Tool for a better player experience.
+
+HOLIDAY ITEM - Explore the island this Easter and send out some fun with the Egg Launcher!
+
+Collapse notes
+Version 8.30.2 (Apr 12, 2019)
+
+NEW REBOOT VAN - Revive eliminated squadmates at a Reboot Van!
+
+NEW ITEM - Blast your opponents away with the Boom Bow!
+
+Expand notes
+Version 8.30.1 (Apr 11, 2019)
+
+NEW REBOOT VAN - Revive eliminated squadmates at a Reboot Van!
+
+NEW ITEM - Blast your opponents away with the Boom Bow!
+
+Expand notes
+Version 8.30.0 (Apr 10, 2019)
+
+NEW REBOOT VAN - Revive eliminated squadmates at a Reboot Van!
+
+NEW ITEM - Blast your opponents away with the Boom Bow!
+
+Expand notes
+Version 8.20.2 (Apr 03, 2019)
+
+NEW FORAGED ITEMS - Check the island out for bananas, coconuts, and peppers!
+
+CREATIVE UPDATES - Introducing the new Pirate Cove prefabs, gallery and shooting range!
+
+Expand notes
+Version 8.20.1 (Mar 30, 2019)
+
+NEW FORAGED ITEMS - Check the island out for bananas, coconuts, and peppers!
+
+CREATIVE UPDATES - Introducing the new Pirate Cove prefabs, gallery and shooting range!
+
+Expand notes
+Version 8.20.0 (Mar 27, 2019)
+
+NEW FORAGED ITEMS - Check the island out for bananas, coconuts, and peppers!
+
+CREATIVE UPDATES - Introducing the new Pirate Cove prefabs, gallery and shooting range!
+
+Expand notes
+Version 8.11.1 (Mar 22, 2019)
+
+NEW VEHICLE - Roll through the competition with our newest vehicle, The Baller!
+
+IMPROVED MAP MARKER - Use the improved map marker to ping enemies, loot, or locations!
+
+Expand notes
+Version 8.11.0 (Mar 20, 2019)
+
+NEW VEHICLE - Roll through the competition with our newest vehicle, The Baller!
+
+IMPROVED MAP MARKER - Use the improved map marker to ping enemies, loot, or locations!
+
+Expand notes
+Version 8.10.1 (Mar 14, 2019)
+
+NEW VEHICLE - Roll through the competition with our newest vehicle, The Baller!
+
+IMPROVED MAP MARKER - Use the improved map marker to ping enemies, loot, or locations!
+
+Expand notes
+Version 8.10.0 (Mar 12, 2019)
+
+NEW VEHICLE - Roll through the competition with our newest vehicle, The Baller!
+
+IMPROVED MAP MARKER - Use the improved map marker to ping enemies, loot, or locations!
+
+Expand notes
+Version 8.01.0 (Mar 06, 2019)
+
+SEASON 8 IS HERE - Adventure awaits! Blast yourself across the map with new Pirate Cannons or surprise enemies by riding Volcanic Vents sky high. So much new to discover - start exploring now!
+
+INTRODUCING PARTY ASSIST - Need help completing a challenge? Your teammates can now lend a hand.
+
+MORE FIXES AND FUN - Optimizations were made, bugs were fixed, fun will be had.
+
+Collapse notes
+Version 8.00.1 (Mar 01, 2019)
+
+SEASON 8 IS HERE - Adventure awaits! Blast yourself across the map with new Pirate Cannons or surprise enemies by riding Volcanic Vents sky high. So much new to discover - start exploring now!
+
+INTRODUCING PARTY ASSIST - Need help completing a challenge? Your teammates can now lend a hand.
+
+MORE FIXES AND FUN - Optimizations were made, bugs were fixed, fun will be had.
+
+Collapse notes
+Version 8.00.0 (Feb 28, 2019)
+
+SEASON 8 IS HERE - Adventure awaits! Blast yourself across the map with new Pirate Cannons or surprise enemies by riding Volcanic Vents sky high. So much new to discover - start exploring now!
+
+INTRODUCING PARTY ASSIST - Need help completing a challenge? Your teammates can now lend a hand.
+
+MORE FIXES AND FUN - Optimizations were made, bugs were fixed, fun will be had.
+
+Collapse notes
+Version 7.40.2 (Feb 18, 2019)
+
+FREE BATTLE PASS - Everyone who completes 13 free Overtime Challenges by February 27 will receive the upcoming Season 8 Battle Pass for FREE!
+
+CODE BLUE - The new Cobalt pack is in the Store now for a limited time!
+
+MOBILE IMPROVEMENTS - We’ve continued to add stability, bug fixes, and new features including a new edit button!
+
+ENVIRONMENTAL CAMPFIRES - More than just looks...Gather around and tell tales of your adventures while you heal with your friends!
+
+Collapse notes
+Version 7.40.1 (Feb 15, 2019)
+
+FREE BATTLE PASS - Everyone who completes 13 free Overtime Challenges by February 27 will receive the upcoming Season 8 Battle Pass for FREE!
+
+CODE BLUE - The new Cobalt pack is in the Store now for a limited time!
+
+MOBILE IMPROVEMENTS - We’ve continued to add stability, bug fixes, and new features including a new edit button!
+
+ENVIRONMENTAL CAMPFIRES - More than just looks...Gather around and tell tales of your adventures while you heal with your friends!
+
+Collapse notes
+Version 7.40.0 (Feb 14, 2019)
+
+FREE BATTLE PASS - Everyone who completes 13 free Overtime Challenges by February 27 will receive the upcoming Season 8 Battle Pass for FREE!
+
+CODE BLUE - The new Cobalt pack is in the Store now for a limited time!
+
+MOBILE IMPROVEMENTS - We’ve continued to add stability, bug fixes, and new features including a new edit button!
+
+ENVIRONMENTAL CAMPFIRES - More than just looks...Gather around and tell tales of your adventures while you heal with your friends!
+
+Collapse notes
+Version 7.30.2 (Feb 02, 2019)
+
+SNEAKY SNOWMAN - Is that snowman closer than it was a second ago? Sneak around the map and surprise enemies in a frosty new way!
+
+CONTROLLER SUPPORT - Controller support in this update! Play with a variety of supported gamepads, customize your buttons, and drop into the battle!
+
+Expand notes
+Version 7.30.1 (Feb 01, 2019)
+
+SNEAKY SNOWMAN - Is that snowman closer than it was a second ago? Sneak around the map and surprise enemies in a frosty new way!
+
+CONTROLLER SUPPORT - Controller support in this update! Play with a variety of supported gamepads, customize your buttons, and drop into the battle!
+
+Expand notes
+Version 7.30.0 (Jan 29, 2019)
+
+SNEAKY SNOWMAN - Is that snowman closer than it was a second ago? Sneak around the map and surprise enemies in a frosty new way!
+
+CREATIVE UPDATES - Explore. Play. Invent. Discover new ways to play Fortnite, play community made mini-games with friends and build your dream island.
+
+Expand notes
+Version 7.20.2 (Jan 18, 2019)
+
+ITEMIZED GLIDER REDEPLOY- Glide away from the storm or surpirse your enemy! Fly around the island with our new Glider Redeploy item!
+
+CREATIVE UPDATES - Your island, your rules! Updates include additional game settings and Farmstead prefabs.
+
+Expand notes
+Version 7.20.1 (Jan 16, 2019)
+
+ITEMIZED GLIDER REDEPLOY- Glide away from the storm or surpirse your enemy! Fly around the island with our new Glider Redeploy item!
+
+CREATIVE UPDATES - Your island, your rules! Updates include additional game settings and Farmstead prefabs.
+
+Expand notes
+Version 7.20.0 (Jan 15, 2019)
+
+ITEMIZED GLIDER REDEPLOY- Glide away from the storm or surpirse your enemy! Fly around the island with our new Glider Redeploy item!
+
+CREATIVE UPDATES - Your island, your rules! Updates include additional game settings, Farmstead prefabs, and spectator mode.
+
+Expand notes
+Version 7.10.1 (Dec 19, 2018)
+
+HAPPY HOLIDAYS - Fortnite is celebrating the holidays with festive decorations, weapons, vehicles, and more throughout the map. Happy Holidays from the Fortnite team!
+
+FORTNITE CREATIVE - Everyone can now hop into Fortnite Creative! Claim your own personal island and start creating. Your island, your friends, your rules.
+
+Expand notes
+Version 7.10.0 (Dec 18, 2018)
+
+HAPPY HOLIDAYS - Fortnite is celebrating the holidays with festive decorations, weapons, vehicles, and more throughout the map. Happy Holidays from the Fortnite team!
+
+FORTNITE CREATIVE - Everyone can now hop into Fortnite Creative! Claim your own personal island and start creating. Your island, your friends, your rules.
+
+Expand notes
+Version 7.01.1 (Dec 15, 2018)
+
+SEASON 7 IS HERE - Season 7 has arrived with the smash of a mysterious iceberg! Use new Ziplines to travel across the map or take to the skies in a Stormwing plane. There are tons of new areas to venture to and secrets to uncover, so stay frosty.
+
+INTRODUCING WRAPS - Get a brand new item type in the Battle Pass: Wraps! These allow you to customize your weapons and vehicles with all new looks to match and complement your favorite outfits.
+
+60FPS GAMEPLAY ON SELECT DEVICES - Take Fortnite to the next level - 60fps gameplay is now available on iPad Pro 2018, iPhone XR, XS, and XS Max. Head to settings on these devices to activate.
+
+Collapse notes
+Version 7.01.0 (Dec 11, 2018)
+
+SEASON 7 IS HERE - Season 7 has arrived with the smash of a mysterious iceberg! Use new Ziplines to travel across the map or take to the skies in a Stormwing plane. There are tons of new areas to venture to and secrets to uncover, so stay frosty.
+
+INTRODUCING WRAPS - Get a brand new item type in the Battle Pass: Wraps! These allow you to customize your weapons and vehicles with all new looks to match and complement your favorite outfits.
+
+60FPS GAMEPLAY ON SELECT DEVICES - Take Fortnite to the next level - 60fps gameplay is now available on iPad Pro 2018, iPhone XR, XS, and XS Max. Head to settings on these devices to activate.
+
+Collapse notes
+Version 7.00.1 (Dec 07, 2018)
+
+SEASON 7 IS HERE - Season 7 has arrived with the smash of a mysterious iceberg! Use new Ziplines to travel across the map or take to the skies in a Stormwing plane. There are tons of new areas to venture to and secrets to uncover, so stay frosty.
+
+INTRODUCING WRAPS - Get a brand new item type in the Battle Pass: Wraps! These allow you to customize your weapons and vehicles with all new looks to match and complement your favorite outfits.
+
+60FPS GAMEPLAY ON SELECT DEVICES - Take Fortnite to the next level - 60fps gameplay is now available on iPad Pro 2018, iPhone XR, XS, and XS Max. Head to settings on these devices to activate.
+
+Collapse notes
+Version 7.00.0 (Dec 06, 2018)
+
+SEASON 7 IS HERE - Season 7 has arrived with the smash of a mysterious iceberg! Use new Ziplines to travel across the map or take to the skies in a Stormwing plane. There are tons of new areas to venture to and secrets to uncover, so stay frosty.
+
+INTRODUCING WRAPS - Get a brand new item type in the Battle Pass: Wraps! These allow you to customize your weapons and vehicles with all new looks to match and complement your favorite outfits.
+
+60FPS GAMEPLAY ON SELECT DEVICES - Take Fortnite to the next level - 60fps gameplay is now available on iPad Pro 2018, iPhone XR, XS, and XS Max. Head to settings on these devices to activate.
+
+Collapse notes
+Version 6.31.0 (Nov 27, 2018)
+
+EVENTS- Tournaments can be found inside of the new Events tab available in game. This tab will host a variety of online competitions which are open to everyone. Jump in and explore!
+
+NEW MOUNTED TURRET - Drop and operate the Mounted Turret trap and fire with unlimited ammo but watch out for the overheating! Try it out in the Food Fight LTM!
+
+Additional stability improvements and bug fixes.
+
+Collapse notes
+Version 6.30.0 (Nov 14, 2018)
+
+EVENTS- Tournaments can be found inside of the new Events tab available in game. This tab will host a variety of online competitions which are open to everyone. Jump in and explore!
+
+NEW MOUNTED TURRET - Drop and operate the Mounted Turret trap and fire with unlimited ammo but watch out for the overheating! Try it out in the Food Fight LTM!
+
+Additional stability improvements and bug fixes.
+
+Collapse notes
+Version 6.22.0 (Nov 06, 2018)
+
+NEW POINT OF INTEREST - Fortnitemares has ended and the Cube's power has transformed Loot Lake into Leaky Lake!.
+
+BALLOONS - A whole new way to get some air in Battle Royale! Fill‘em up and float away or pop them to land and surprise your enemy!
+
+Additional stability improvements and bug fixes.
+
+Collapse notes
+Version 6.21.1 (Nov 02, 2018)
+
+FORTNITEMARES - Fortnitemares 2018 is here, featuring all manner of haunting happenings across Fortnite. Skulk in the shadows to scare your way to a Victory Royale or brave hair-raising monsters to complete new free challenges. Darkness has risen.
+
+CUBE MONSTERS - During Fortnitemares, you’ll face off against Cube Monsters in a whole new way of playing. Take them out to pick up loot and survive against enemy players.
+
+LIMITED TIME WEAPONS - There are new weapons to fight back against these creepy creatures, like the Six Shooter, Pumpkin Launcher, and Fiend Hunter Crossbow.
+
+Collapse notes
+Version 6.21.0 (Nov 01, 2018)
+
+FORTNITEMARES - Fortnitemares 2018 is here, featuring all manner of haunting happenings across Fortnite. Skulk in the shadows to scare your way to a Victory Royale or brave hair-raising monsters to complete new free challenges. Darkness has risen.
+
+CUBE MONSTERS - During Fortnitemares, you’ll face off against Cube Monsters in a whole new way of playing. Take them out to pick up loot and survive against enemy players.
+
+LIMITED TIME WEAPONS - There are new weapons to fight back against these creepy creatures, like the Six Shooter, Pumpkin Launcher, and Fiend Hunter Crossbow.
+
+Collapse notes
+Version 6.20.2 (Oct 29, 2018)
+
+FORTNITEMARES - Fortnitemares 2018 is here, featuring all manner of haunting happenings across Fortnite. Skulk in the shadows to scare your way to a Victory Royale or brave hair-raising monsters to complete new free challenges. Darkness has risen.
+
+CUBE MONSTERS - During Fortnitemares, you’ll face off against Cube Monsters in a whole new way of playing. Take them out to pick up loot and survive against enemy players.
+
+LIMITED TIME WEAPONS - There are new weapons to fight back against these creepy creatures, like the Six Shooter, Pumpkin Launcher, and Fiend Hunter Crossbow.
+
+Collapse notes
+Version 6.20.1 (Oct 25, 2018)
+
+FORTNITEMARES - Fortnitemares 2018 is here, featuring all manner of haunting happenings across Fortnite. Skulk in the shadows to scare your way to a Victory Royale or brave hair-raising monsters to complete new free challenges. Darkness has risen.
+
+CUBE MONSTERS - During Fortnitemares, you’ll face off against Cube Monsters in a whole new way of playing. Take them out to pick up loot and survive against enemy players.
+
+LIMITED TIME WEAPONS - There are new weapons to fight back against these creepy creatures, like the Six Shooter, Pumpkin Launcher, and Fiend Hunter Crossbow.
+
+Collapse notes
+Version 6.20.0 (Oct 24, 2018)
+
+FORTNITEMARES - Fortnitemares 2018 is here, featuring all manner of haunting happenings across Fortnite. Skulk in the shadows to scare your way to a Victory Royale or brave hair-raising monsters to complete new free challenges. Darkness has risen.
+
+CUBE MONSTERS - During Fortnitemares, you’ll face off against Cube Monsters in a whole new way of playing. Take them out to pick up loot and survive against enemy players.
+
+LIMITED TIME WEAPONS - There are new weapons to fight back against these creepy creatures, like the Six Shooter, Pumpkin Launcher, and Fiend Hunter Crossbow.
+
+Collapse notes
+Version 6.10.1 (Oct 18, 2018)
+
+QUADCRASHER - Charge the boost to crash through structures or get some air with this new vehicle. Hop on with a teammate or roll solo!
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items! Stay frosty with the new Chiller trap or launch four rockets at once with the Quad Launcher.
+
+MORE CONTROL - You can now customize more of your controls including the map, materials, and more.
+
+MOBILE IMPROVEMENTS - We’ve continued stability and bug fixes including greatly improving item pick-up when playing with multiple fingers at once.
+
+Expand notes
+Version 6.10.0 (Oct 16, 2018)
+
+QUADCRASHER - Charge the boost to crash through structures or get some air with this new vehicle. Hop on with a teammate or roll solo!
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items! Stay frosty with the new Chiller trap or launch four rockets at once with the Quad Launcher.
+
+MORE CONTROL - You can now customize more of your controls including the map, materials, and more.
+
+MOBILE IMPROVEMENTS - We’ve continued stability and bug fixes including greatly improving item pick-up when playing with multiple fingers at once.
+
+Expand notes
+Version 6.02.0 (Oct 10, 2018)
+
+SEASON 6 IS HERE - Darkness rises in Season 6! Drop in now to explore mysterious map changes and uncover spooky secrets. Are you daring enough to enter the Wailing Woods, face the corruption of the cube or visit the Haunted Castle?
+
+INTRODUCING PETS - Level up your Season 6 Battle Pass to unlock cute companions that will join you in your journey across the island.
+
+iOS 12 READY - The game is updated and ready to go for iOS 12.
+
+Expand notes
+Version 6.01.1 (Oct 04, 2018)
+
+SEASON 6 IS HERE - Darkness rises in Season 6! Drop in now to explore mysterious map changes and uncover spooky secrets. Are you daring enough to enter the Wailing Woods, face the corruption of the cube or visit the Haunted Castle?
+
+INTRODUCING PETS - Level up your Season 6 Battle Pass to unlock cute companions that will join you in your journey across the island.
+
+iOS 12 READY - The game is updated and ready to go for iOS 12.
+
+Expand notes
+Version 6.01.0 (Oct 03, 2018)
+
+SEASON 6 IS HERE - Darkness rises in Season 6! Drop in now to explore mysterious map changes and uncover spooky secrets. Are you daring enough to enter the Wailing Woods, face the corruption of the cube or visit the Haunted Castle?
+
+INTRODUCING PETS - Level up your Season 6 Battle Pass to unlock cute companions that will join you in your journey across the island.
+
+iOS 12 READY - The game is updated and ready to go for iOS 12.
+
+Expand notes
+Version 6.00.1 (Sep 28, 2018)
+
+SEASON 6 IS HERE - Darkness rises in Season 6! Drop in now to explore mysterious map changes and uncover spooky secrets. Are you daring enough to enter the Wailing Woods, face the corruption of the cube or visit the Haunted Castle?
+INTRODUCING PETS - Level up your Season 6 Battle Pass to unlock cute companions that will join you in your journey across the island.
+
+iOS 12 READY - The game is updated and ready to go for iOS 12.
+
+Expand notes
+Version 6.00.0 (Sep 27, 2018)
+
+SEASON 6 IS HERE - Darkness rises in Season 6! Drop in now to explore mysterious map changes and uncover spooky secrets. Are you daring enough to enter the Wailing Woods, face the corruption of the cube or visit the Haunted Castle?
+
+INTRODUCING PETS - Level up your Season 6 Battle Pass to unlock cute companions that will join you in your journey across the island.
+
+iOS 12 READY - The game is updated and ready to go for iOS 12.
+
+Expand notes
+Version 5.41.0 (Sep 18, 2018)
+
+PORT-A-FORTRESS - Go big or go home! Toss the new Port-A-Fortress to instantly create a large fort.
+
+TURBO BUILDING IS BACK - You can once again swap structure types while turbo building. Expert builders rejoice!
+
+Expand notes
+Version 5.40.2 (Sep 11, 2018)
+
+TRY THE GRAPPLER - Climb to new heights and surprise your opponents with the Grappler. Fire, attach to an object, and pull yourself toward it.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.40.1 (Sep 07, 2018)
+
+TRY THE GRAPPLER - Climb to new heights and surprise your opponents with the Grappler. Fire, attach to an object, and pull yourself toward it.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.40.0 (Sep 06, 2018)
+
+TRY THE GRAPPLER - Climb to new heights and surprise your opponents with the Grappler. Fire, attach to an object, and pull yourself toward it.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.30.2 (Aug 28, 2018)
+
+TRY THE RIFT-TO-GO - It’s a rift in a bottle! Activate it to teleport up into the sky and leave a rift behind you.
+
+PLAYGROUND UPDATES - We’re continuing to improve on the Playground Limited Time Mode. Come try and let your imagination run wild!
+
+TIME TO EXPLORE - New locations are appearing on the map. Jump in to discover all of the latest changes.
+
+Expand notes
+Version 5.30.1 (Aug 24, 2018)
+
+TRY THE RIFT-TO-GO - It’s a rift in a bottle! Activate it to teleport up into the sky and leave a rift behind you.
+
+PLAYGROUND UPDATES - We’re continuing to improve on the Playground Limited Time Mode. Come try and let your imagination run wild!
+
+TIME TO EXPLORE - New locations are appearing on the map. Jump in to discover all of the latest changes.
+
+Expand notes
+Version 5.30.0 (Aug 23, 2018)
+
+TRY THE RIFT-TO-GO - It’s a rift in a bottle! Activate it to teleport up into the sky and leave a rift behind you.
+
+PLAYGROUND UPDATES - We’re continuing to improve on the Playground Limited Time Mode. Come try and let your imagination run wild!
+
+TIME TO EXPLORE - New locations are appearing on the map. Jump in to discover all of the latest changes.
+
+Expand notes
+Version 5.21.1 (Aug 16, 2018)
+
+MOTION CONTROLS - Motion controls are now available in the settings menu. Dial in on your enemies by moving your phone.
+
+CUSTOMIZE YOUR FIRE CONTROLS - You can now select a mix of Auto Fire, tap to shoot, and a dedicated fire button to fine tune your play experience.
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items including Compact SMG, Double Barrel Shotgun, and more. We’ve also brought back some old favorites - Jump in and try all of the latest additions!
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.21.0 (Aug 15, 2018)
+
+MOTION CONTROLS - Motion controls are now available in the settings menu. Dial in on your enemies by moving your phone.
+
+CUSTOMIZE YOUR FIRE CONTROLS - You can now select a mix of Auto Fire, tap to shoot, and a dedicated fire button to fine tune your play experience.
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items including Compact SMG, Double Barrel Shotgun, and more. We’ve also brought back some old favorites - Jump in and try all of the latest additions!
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.2.0 (Aug 07, 2018)
+
+MOTION CONTROLS - Motion controls are now available in the settings menu. Dial in on your enemies by moving your phone.
+
+CUSTOMIZE YOUR FIRE CONTROLS - You can now select a mix of Auto Fire, tap to shoot, and a dedicated fire button to fine tune your play experience.
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items including Compact SMG, Double Barrel Shotgun, and more. We’ve also brought back some old favorites - Jump in and try all of the latest additions!
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.1.1 (Jul 31, 2018)
+
+HAPPY BIRTHDAY - Celebrate Fortnite’s first birthday with surprises found throughout the game. Come play!
+
+PLAYGROUND MODE IS BACK - Playground mode will return on July 25th and remain for a limited time. Come create, train and play with your friends.
+
+MOBILE IMPROVEMENTS - We've added the ability to background the app while downloading updates, new quick building buttons, and new customizable control options.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.1.0 (Jul 24, 2018)
+
+HAPPY BIRTHDAY - Celebrate Fortnite’s first birthday with surprises found throughout the game. Come play!
+
+PLAYGROUND MODE IS BACK - Playground mode will return on July 25th and remain for a limited time. Come create, train and play with your friends.
+
+MOBILE IMPROVEMENTS - We've added the ability to background the app while downloading updates, new quick building buttons, and new customizable control options.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 5.0.0 (Jul 12, 2018)
+
+SEASON 5 HAS ARRIVED - Worlds collide in Season 5! Viking ships, desert outposts, and ancient statues have appeared across the island. Hop in an All Terrain Kart or ATK with your squad and uncover all new mysteries and locations.
+
+NEW VEHICLE ADDED - A brand new vehicle has been added: the All Terrain Kart or ATK. Grab your squad and cruise the map in style!
+
+AUTO-FIRE - Auto-fire has been added as an option on iOS. You can adjust this on or off in the settings menu.
+
+GAME ON! - Challenge your friends to a game of golf or basketball with cosmetic items, available only in the Season 5 Battle Pass.
+
+Expand notes
+Version 4.5.0 (Jun 27, 2018)
+
+NEW WEAPONS AND ITEMS - We’ve added a bunch of new items including Stink Bombs, Double Pistols, the Thermal Scope Assault Rifle, and more. Jump in and try all of the latest additions.
+
+WHERE WE DROPPIN’? - It's easier than ever to meet up with your squad - map markers now appear in world.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.4.2 (Jun 19, 2018)
+
+GO FOR A RIDE - Come ride one of the new Shopping Carts found throughout the map! Go alone or team up with a friend.
+
+BOUNCE! - Try the new Bouncer pad to get a big bounce boost! Tip: Be sure to try the Bouncer with a Shopping Cart.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.4.1 (Jun 14, 2018)
+
+GO FOR A RIDE - Come ride one of the new Shopping Carts found throughout the map! Go alone or team up with a friend.
+
+BOUNCE! - Try the new Bouncer pad to get a big bounce boost! Tip: Be sure to try the Bouncer with a Shopping Cart.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.4 (Jun 11, 2018)
+
+GO FOR A RIDE - Come ride one of the new Shopping Carts found throughout the map! Go alone or team up with a friend.
+
+BOUNCE! - Try the new Bouncer pad to get a big bounce boost! Tip: Be sure to try the Bouncer with a Shopping Cart.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.3.1 (Jun 04, 2018)
+
+VOICE CHAT IS HERE! - Voice chat with your party can now be enabled in settings. Push-to-Talk with your party members!
+
+CUSTOMIZABLE CONTROLS - We’ve improved customizable controls based on your feedback. Come check it out and let us know what you think.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.3.0 (May 30, 2018)
+
+VOICE CHAT IS HERE! - Voice chat with your party can now be enabled in settings. Push-to-Talk with your party members!
+
+CUSTOMIZABLE CONTROLS - We’ve improved customizable controls based on your feedback. Come check it out and let us know what you think.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.2.1 (May 21, 2018)
+
+CUSTOMIZABLE HUD - You've asked for it and it's finally here! Customize your HUD the way you want it. This is version 1.0, so we'll continue to build this out.
+
+BURST ASSAULT RIFLE - Claim Victory Royale with the latest weapon to hit Battle Royale!
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.2.0 (May 16, 2018)
+
+CUSTOMIZABLE HUD - You've asked for it and it's finally here! Customize your HUD the way you want it. This is version 1.0, so we'll continue to build this out.
+
+BURST ASSAULT RIFLE - Claim Victory Royale with the latest weapon to hit Battle Royale!
+
+SOLID GOLD v2 LTM - Announcing the return of the Solid Gold Limited Time Mode, this time with the Heavy Shotgun and Burst Assault Rifle joining the mix.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.1.0 (May 08, 2018)
+
+LEAVE YOUR MARK - Tag forts and other surfaces with Sprays, a brand new cosmetic item.
+
+SEASON 4 IS HERE - Season 4 is starting off with a BANG. The comet has crashed and brings new locations to explore! Jump in and witness the aftermath of the impact while you level up your Battle Pass and earn all new loot.
+
+Additional stability improvements and bug fixes.
+
+Expand notes
+Version 4.0.0 (May 01, 2018)
+
+SEASON 4 IS HERE - Season 4 is starting off with a BANG. The comet has crashed and brings new locations to explore! Jump in and witness the aftermath of the impact while you level up your Battle Pass and earn all new loot.
+
+HOP ROCKS - The comet has left a mark on the island... Visit the crater and you’ll find glowing rocks all around. Consume them and lift off with low gravity!
+
+DRAG AND DROP - The quickbar now supports drag and drop for dropping and rearranging inventory items.
+
+Additional stability improvements and bug fixes.
+
+Collapse notes
+Version 3.6.0 (Apr 24, 2018)
+
+- TAKE CONTROL: We’ve added a fire button to the right side of the screen! Head to settings to enable it.
+- STICK TO IT: Once it sticks to you, there's no escaping the latest item: the Clinger. This grenade sticks to enemies, walls, and more.
+- SQUAD UP: You’ll now spawn closer to your squad in the starting area.
+- Additional stability improvements and bug fixes.
+
+Expand notes
+Version 3.5.0 (Apr 11, 2018)
+
+- NEW ITEM: Port-a-Fort: No materials? No problem! Instantly build cover when you throw the new Port-a-Fort.
+- AUDIO INDICATOR UPDATES: The Audio Indicator no longer shows silenced weapons, crouch-footsteps, or teammates harvesting materials.
+- Additional graphical improvements and bug fixes.
+
+Expand notes
+Version 3.4.2 (Apr 03, 2018)
+
+Fortnite’s latest update brings a new guided missile, an Easter-themed Egg Launcher, an updated Sniper Shootout Limited Time Mode, and more!
+
+- HAPPY EASTER! The Egg Launcher has been added as a seasonal item that replaces the Grenade Launcher (only a cosmetic change).
+- New Weapon: Guided Missile. Take control of the missile after it’s fired, making your own flight path to find your target.
+- New Limited Time Mode: Sniper Shootout v2. It’s all snipers all the time in this Limited Time Mode (LTM), now with the addition of the Hunting Rifle and Crossbow.
+- Whispers and Party Text Chat are now available on iOS.
+- Bug fixes and many improvements to the experience!
+
+Collapse notes
+Version 3.4.0 (Mar 29, 2018)
+
+Gameplay polish, stability improvements and bug fixes
+
+Expand notes
+Version 3.3.1 (Mar 20, 2018)
+
+Stability improvements and bug fixes
+
+Expand notes
+Version 3.3.0 (Mar 15, 2018)
+Show less

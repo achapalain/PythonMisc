@@ -1,0 +1,277 @@
+New character
+	NEW CHARACTER
+New challenge
+	New challenge
+	New feature
+Fix
+	fix
+	issue
+Event
+	event
+	Missions
+Balancing
+	Balancing
+
+=================
+
+Version History
+
+    2.1.2
+    Jun 5, 2019
+
+    Hello, Racers!! Our new update is coming!
+
+    A ton of minor bug fixes and game performance improvements
+
+    Time to race ’till the end of days May the Road be with you!
+    2.1.1
+    May 20, 2019
+
+    THE 2.1.1 UPDATE IS LIVE!! Don't worry, you haven't missed any update, this one is just BIG!!
+
+    - NEW FEATURE: TIME ATTACK MODE Race against the clock, send your best score to your Clubmates, and challenge them to beat you!!
+
+    - 2 NEW CHARACTERS!!
+
+    - 8 new skins for the most recent characters
+
+    - ... and a TON of bug fixes!! See you on the Road
+
+1.9.9
+May 6, 2019
+
+The 1.9.9 just rolled out!! Here's what's new:
+
+- New sound effects have been added
+
+- AVATARS have been added as Event rewards
+
+- ... and a ton of minor bug fixes!!
+
+May the Road be with you!!
+1.9.8
+Apr 9, 2019
+
+1.9.8 update just hit the road! Here's what new:
+
+Piggy Bank will fill twice as fast as before!
+
+Visual FX have been improved! The game is juicier than ever
+
+Localization has been improved! You can now play the Sponsor challenge in multiple languages
+
+... and a ton of minor bug fixes
+
+May the road be with you!
+1.9.7
+Apr 1, 2019
+
+The new 1.9.7 update just hit the road!
+
+-Trophy requirements for Club Challenges have been lowered for the Easy and Medium Trophy Rush challenges to fit with the Trophy distribution rebalancing of the 1.9.5 version!
+
+-You can now change your profile picture and to display your favorite Racer!
+
+-Collect diamonds in races to fulfill the brand new Piggy Bank! Once full, you can break it for an amazing Deal!
+
+... and a ton of minor bug fixes!
+
+May the road be with you!
+1.9.5
+Mar 6, 2019
+
+PREPARE FOR NEW CHALLENGES!! The 1.9.5 is available!!
+
+- Discover the LEAGUE CHALLENGE: Before moving on to the next League, you now have to DEFEAT A BOSS!! Will you triumph and reach LEGENDARY?
+
+- Also new: the SPONSOR CHALLENGE!! Complete objectives to win a truckload of trophies!!
+
+- And tons of bug fixes!
+
+We hope you enjoy this update! May the road be with you!
+1.9.3
+Feb 11, 2019
+
+Fellow racers welcome to the 1.9.3 update!!
+
+Here are the changes you can expect in this update:
+
+- The Instant Boost button has been moved to avoid misclicks and accidental presses, and has been improved to reflect its cost in Diamonds!
+
+- "Recommended" Cars are back! The car which has a current trophy boost is now indicated again on the Main Menu and the Garage.
+
+- New Discord link: join the Discord server to interact with the best SUP players and the OhBiBi team behind SUP as well!
+
+... and tons of minor fixes!
+
+See you on the race tracks, and may the Road be with you!
+1.9.2
+Jan 21, 2019
+
+Version 1.9.2 is here!! We've made it worth the wait, and we hope you enjoy it
+
+New changes include:
+
+Improved main menu! Starting races or switching cars will now be easier than ever
+
+EVO Coin donations should function normally again!
+
+Support emails should be fixed as well!
+
+We added a profanity filter to discourage people from choosing slurs, swear words or offensive names for themselves or their Clubs
+1.9.1
+Jan 2, 2019
+
+BRACE YOURSELVES, NEW VERSION IS AVAILABLE!!
+
+Here’s what the amazing 1.9.1 version has for you:
+
+- WIN STREAK CHALLENGE!! Win races in a row to obtain a blazing aura and amazing rewards!! But beware, other racers will try to ruin your day!! THERE CAN BE ONLY ONE!!
+
+- BALANCING: All cars have been adjusted!
+
+- MISSIONS: Lots of improvements and bug fixes!
+
+AND MUCH MORE!!
+
+Ho ho ho, Merry Christmas and may the Road be with you!
+1.8.9
+Dec 6, 2018
+
+Quick bug fixes
+1.8.8
+Dec 3, 2018
+
+IT’S FINALLY HERE - The 1.8.8 UPDATE!!
+
+- TONS OF CLUB FIXES!! Racers should no longer get kicked from their Clubs, and empty/inactive Clubs will no longer appear in Club Search
+
+- Localization has been improved! Enjoy SUP in your favorite language
+
+- Missions have been tweaked and made even better
+
+- And much more!
+1.8.7
+Nov 19, 2018
+
+The 1.8.7 update is here!!
+
+Here are the good news:
+
+- MISSIONS have been added to the game!! Complete Daily Missions to win Diamonds and Chests!
+
+- Clubs with no members should no longer appear in searches.
+
+- And lots of minor bug fixes!
+
+Stay tuned for more content coming soon, and may the Road be with you!
+1.8.5
+Nov 5, 2018
+
+Connection issues during matchmaking have been SOLVED!
+
+The BEST DEALS OF YOUR LIFE now available!
+
+And tons of minor bug fixes!
+
+May the Road be with you!
+1.8.4
+Oct 24, 2018
+
+Don’t get scared! Come to check our Halloween collection!
+
+BATTLE ROYALE Event is back!! Race until you’re the only one left.
+
+This update fixes minor scary issues...
+
+Happy Halloween!
+1.8.3
+Oct 23, 2018
+
+Don’t get scared! Come to check our Halloween collection!
+
+BATTLE ROYALE Event is back!! Race until you’re the only one left.
+
+This update fixes minor scary issues...
+
+Happy Halloween!
+1.8.2
+Oct 10, 2018
+
+TRICK OR TREAT?
+
+Come to check our Halloween collection!
+
+This update fixes minor scary issues as Season reward, Leaderboard ranking and more.
+
+Have a spooktacular Halloween!
+1.8.1
+Oct 2, 2018
+
+LEADERBOARDS FIXED!!
+
+It's time to say bye to those pesky Leaderboard bugs!!
+
+Spread the word, tell a friend, only once everyone has updated will this problem end!
+1.7.9
+Sep 20, 2018
+
+Minor Bugs Fixes
+
+May the Road be with you!
+1.7.8
+Sep 17, 2018
+
+CLOUD SAVES ARE BACK!!
+
+Our new update also has minor bug fixes,
+
+MAY THE ROAD BE WITH YOU!!
+1.7.7
+Aug 27, 2018
+
+Hello, Racers!! Our new update is coming with the following:
+
+- Online services were greatly improved! Time to race 'till the end of days
+
+- Minors bugs have been fixed.
+
+May the Road be with you!
+1.7.6
+Aug 16, 2018
+
+Hello Racers! New update incoming:
+
+- Fixed network detection for Online Races!
+1.7.5
+Aug 10, 2018
+
+Hello Racers! New update incoming:
+
+- Issues with leaderboard have been fixed, Hurray!
+1.7.4
+Aug 6, 2018
+
+Hello, Racers! New update incoming:
+
+- You can now spend your beloved legendary trophies to get the exclusive cars and more amazing prizes!
+
+- The mysterious Mustang empty card is now fixed!
+1.7.3
+Jul 9, 2018
+
+New update incoming, with tons of bug fixes!
+
+- Power-ups can now go up to level 15 and have been rebalanced!
+
+- Power-up parts should no longer be stuck over the limit!
+
+- Ads should work properly
+
+- Special Offers will now be better than ever!
+1.7.2
+Jul 4, 2018
+
+New update upcoming:
+
+Many bugs have been fixed! ;)

@@ -1,0 +1,336 @@
+Launch
+	Launching globally
+New characters
+	New character
+	new .*fragger
+Features
+	Air drop
+===========
+
+Version History
+
+    1.4.1
+    Jun 14, 2019
+
+    Three new exclusive fraggers:
+
+    - O.K., a friendly but also deadly TV robot
+
+    - Cactarina, a punk rock star turned Fragger!
+
+    - Hades5.1, a sentient A.I. turned virus who decided to conquer the digital world.
+
+    Others
+
+    - Balancing
+
+    - Quality of life improvements
+
+    - Bug fixes
+
+    - And more!
+
+1.4.0
+May 29, 2019
+
+Three new exclusive fraggers: Rolaf, Mr Doe and Jab
+
+- Rolaf is a fierce Neo-Viking warrior able to cause massive damage to foes around him
+
+- Mr Doe is a renowned journalist able to turn invisible to infiltrate enemy's camp
+
+- Jab is a former boxer now fighting in the FRAG arenas and blocking enemies' shots with his holo-shield
+
+And Club War is coming for all clubs, brace yourselves!
+
+Others
+
+- Balancing
+
+- Quality of life improvements
+
+- Bug fixes
+
+- And more!
+1.3.9
+May 20, 2019
+
+- Bug fixes
+1.3.8
+May 10, 2019
+
+- Play with the new Air Drop feature, win and activate Air Drops in the game to unlock special powers for your whole team!
+
+- Discover Valkia, our new Common Fragger from Arena 5! Ascend into Cyber-Valhalla and unleash Valkyries' wrath onto enemies!
+
+Other
+
+- Balancing
+
+- Quality of life improvements
+
+- Bug fixes
+
+- And more!
+1.3.7
+Apr 25, 2019
+
+Bug fix
+1.3.6
+Apr 18, 2019
+
+- Discover Buck, our new Rare Fragger from Arena 4! Drop planks on the map, access new terrains or protect your bunkers against opponents!
+
+- Season 2 is coming. Expect exclusive new skins, holotags and much more!
+
+Other
+
+- Balancing
+
+- Quality of life improvements
+
+- Bug fixes
+
+- And more!
+1.3.5
+Apr 4, 2019
+
+Two new exclusive fraggers: Inferno & Captain Polar
+
+- Inferno is a lord from hell who will clone your opponent's fragger to wreak havoc!
+
+- Captain Polar is an extreme explorer whose ability will pierce enemies and walls!
+
+Share the love by gifting diamonds directly to other players!
+
+Double your battles' gold rewards by watching videos (progressive release).
+
+Other
+
+- Balancing
+
+- Quality of life improvements
+
+- Bug fixes
+
+- And more!
+1.3.4
+Mar 22, 2019
+
+What's new in this FRAG version?
+
+- A new Challenge Mode for players of level 5 or more!
+
+- 2 New Characters: Vandal & Lord VR!!!
+
+- Various rebalancing and bugs' fixes.
+
+- Go on DISCORD for the full list of modifications!
+1.3.3
+Mar 1, 2019
+
+Hello world! FRAG Pro Shooter is launching globally, tons of fixes and small tweaks to celebrate our global launch.
+1.3.2
+Feb 22, 2019
+
+Various bug Fixes
+
+Adjustment on trophies count for Arena 10
+
+Leader can now desactivate the Auto-Kick from the club
+
+Improved localization text and fonts.
+1.3.1
+Feb 19, 2019
+
+New Kill Feed !
+
+Online stabilization
+
+Tons of bug fixes and various improvements.
+1.3.0
+Feb 13, 2019
+
+Optimization improvements regarding freezes and loading issues with Fanbase
+
+Sound optimization to prevent glitches
+
+Lots of gameplay optimization (weapon range, stun)
+
+Lot of bug fixes and various improvements.
+
+Visit the Discord for more informations :)
+1.2.9
+Feb 9, 2019
+
+New Emoji & Dialogue system during battle, you can now communicate with your opponent !
+
+Direct Messaging in Fan Base.
+
+Price of upgrades have been reduced, 2 new levels have been added to units instead to increase the grind!
+
+Arena points required have been reduced.
+
+Season now has 100 tiers.
+
+Lot of bug fixes and various improvements.
+1.2.8
+Feb 8, 2019
+
+New Emoji & Dialogue system during battle, you can now communicate with your opponent !
+
+Direct Messaging in Fan Base.
+
+Price of upgrades have been reduced, 2 new levels have been added to units instead to increase the grind!
+
+Arena points required have been reduced.
+
+Season now has 100 tiers.
+
+Lot of bug fixes and various improvements.
+1.2.7
+Jan 31, 2019
+
+Hey Fraggers, tons of small tweaks incoming:
+
+- Improved user interface
+
+- New Victory Animation
+
+- Healthpacks are more efficient
+
+- New ability SFX
+
+- Fixed sound issues with Bluetooth headphones and some specific devices
+
+Tons of bug fixes, balance changes, check out the DISCORD for more infos !
+
+Have fun !!!
+1.2.6
+Jan 25, 2019
+
+Reworked AI & order system ! Tap on an objective icon to Attack or Defend !
+
+Select your character after you died !
+
+Piggy Bank ! Collect diamonds during battle and break the piggy bank to collect them all!
+
+Top Contributors rankings & Donation page !
+
+Tons of bug fixes, balance changes, check out the DISCORD for more infos !
+
+Have fun !!!
+1.2.5
+Jan 18, 2019
+
+Tons of bug fixes ! (Online, Club, Characters, Menus)
+
+Rebalancing of many units. (yes.. Frost & Lucha have been nerfeeed)
+
+Join the Discord and discuss with the Top Players and the Dev TEAM !!
+1.2.4
+Jan 10, 2019
+
+6 new characters! DesperaDOS, Prisoner-99, Striker, Scout&Nutty , Cyber Cop & LAIKA !!!!
+
+Check out the Shop during the week end ! You'll be able to purchase unique skins from previous seasons!
+
+Tons of bug fixes, balancings and small improvements.
+1.2.3
+Dec 13, 2018
+
+New Win Streak Perks ! Win more Season XP for consecutive wins.
+
+Reduce Lag during Duel
+
+Improved various menus
+
+Options to change mini map orientation and reduce Soft Lock.
+
+Options Menu is now on the profile page.
+
+Tons of bug fixes
+1.2.2
+Nov 29, 2018
+
+Unit levels are now all on a common scale. (see discord for more informations)
+
+Season Booster ticket can now be purchased in diamonds.
+
+Your profile page will display your last unit reviews.
+
+Various upgrade on menus.
+
+Bug Fixes.
+1.2.1
+Nov 22, 2018
+
+New Grade System ! Play more to increase your rank !
+
+Season was extended by two weeks.
+
+Online Lag is reduced, tick rate was doubled for a smoother experience.
+
+Cloud Save menu improved.
+
+Various little bug fixes and improvements.
+1.1.9
+Nov 21, 2018
+
+New Grade System ! Play more to increase your rank !
+
+Season was extended by two weeks.
+
+Online Lag is reduced, tick rate was doubled for a smoother experience.
+
+Cloud Save menu improved.
+
+Various little bug fixes and improvements.
+1.1.8
+Nov 14, 2018
+
+- New Tutorial !
+
+- Added coins during online game ! You can steal & collect gold.
+
+- Set up your match making max waiting time in the options menu.
+
+- Rebalance of tower points and damages. (Tower will take slightly longer to be destroyed allowing for more Frag to happen within a game)
+
+- Sunday will let you trade Epic cards with your club.
+
+- Added info buttons on Special Offers
+
+- Various fixes.
+1.1.7
+Nov 8, 2018
+
+Rewarded Videos let you skip chest opening time and Double your next battle season XP
+
+Fan Base will now display the feed of all the members of your club
+
+Advertise your club on Fan Base to recruit new motivated members !
+
+Win Streak is now displayed on the profile menus.
+
+Daily Gift will now include free Season XP
+
+Shoot Button if you disable Auto Shoot
+
+Improved collision when you're ring out
+
+Various Fixes
+
+    1.1.6
+    Nov 6, 2018
+
+    Improved Profile Page (up to 12 reviews per users)
+
+    Progress faster in the Season by completing new missions.
+
+    New Season Tier Up screen.
+
+    Improved Club dynamics.
+
+    Fix for Chinese users.
+
